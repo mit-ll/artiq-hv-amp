@@ -15,15 +15,19 @@ Options for amplifier:
 
 General thoughts:
 >Would it be possible to use a boost converter and drive the amps directly from the output of the Zotino?
+>>Could check out the schematics for the Zotino to see how this is done without getting too much noise
+>>[LT3471EDD#TRPBFCT-ND]
 
 
 ---
 
 General notes about using KiCAD:
 >Select a component and go to properties; from here you can edit the library reference to change the library that the symbol derives from
+>http://docs.kicad-pcb.org/5.1.0/en/getting_started_in_kicad/getting_started_in_kicad.html
 
 
 Still ToDo:
+>[CRITICAL] Figure out if it's possible to have hierarchical layouts similar to the schematics
 >Figure out the best default connection for the unused pins of the OPA454
 >Make sure that relative libraries work on different comptuers
 >>https://forum.kicad.info/t/how-to-make-kicad-schematic-libraries-load-with-a-relative-path/2639/3

@@ -4,7 +4,7 @@ EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 2
+Sheet 2 17
 Title "Amplifier block"
 Date ""
 Rev ""
@@ -18,6 +18,88 @@ $Comp
 L Device:R R4
 U 1 1 5C968DBB
 P 4350 3350
+AR Path="/5C968447/5C968DBB" Ref="R4"  Part="1" 
+AR Path="/5C98A5A9/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5C98B18E/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5C9C2F57/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5C9C32B8/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5C9C32BE/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5C9C3647/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5C9C364D/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5C9C3653/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5C9C3659/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA2733E/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA27344/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA2734A/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA27350/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA27356/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA2735C/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA27362/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA273A8/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA33469/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA3346F/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA33475/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA3347B/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA33481/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA33487/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA3348D/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA334D3/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA334D9/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA334DF/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA334E5/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA334EB/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA334F1/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA334F7/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA334FD/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA33543/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DAA4/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DAAA/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB0/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB6/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DABC/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC2/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC8/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB0E/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB14/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB1A/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB20/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB26/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB2C/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB32/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB38/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB7E/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB84/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB8A/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB90/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB96/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DB9C/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA2/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA8/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DBEE/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DBF4/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DBFA/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DC00/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DC06/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DC0C/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DC12/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DC18/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CA4DC5E/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2DD6/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2DDC/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE2/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE8/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2DEE/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2DF4/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2DFA/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2E40/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2E46/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2E4C/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2E52/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2E58/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2E5E/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2E64/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2E6A/5C968DBB" Ref="R?"  Part="1" 
+AR Path="/5CAE2EB0/5C968DBB" Ref="R?"  Part="1" 
 F 0 "R?" V 4143 3350 50  0000 C CNN
 F 1 "49R9" V 4234 3350 50  0000 C CNN
 F 2 "" V 4280 3350 50  0001 C CNN
@@ -28,18 +110,182 @@ $EndComp
 $Comp
 L Device:R R5
 U 1 1 5C969C02
-P 5200 4950
-F 0 "R?" H 5270 4996 50  0000 L CNN
-F 1 "1.65k" H 5270 4905 50  0000 L CNN
-F 2 "" V 5130 4950 50  0001 C CNN
-F 3 "~" H 5200 4950 50  0001 C CNN
-	1    5200 4950
-	1    0    0    -1  
+P 5000 4700
+AR Path="/5C968447/5C969C02" Ref="R5"  Part="1" 
+AR Path="/5C98A5A9/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5C98B18E/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5C9C2F57/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5C9C32B8/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5C9C32BE/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5C9C3647/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5C9C364D/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5C9C3653/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5C9C3659/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA2733E/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA27344/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA2734A/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA27350/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA27356/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA2735C/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA27362/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA273A8/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA33469/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA3346F/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA33475/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA3347B/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA33481/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA33487/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA3348D/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA334D3/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA334D9/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA334DF/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA334E5/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA334EB/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA334F1/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA334F7/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA334FD/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA33543/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DAA4/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DAAA/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB0/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB6/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DABC/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC2/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC8/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB0E/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB14/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB1A/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB20/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB26/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB2C/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB32/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB38/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB7E/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB84/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB8A/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB90/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB96/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DB9C/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA2/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA8/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DBEE/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DBF4/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DBFA/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DC00/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DC06/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DC0C/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DC12/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DC18/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CA4DC5E/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2DD6/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2DDC/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE2/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE8/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2DEE/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2DF4/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2DFA/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2E40/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2E46/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2E4C/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2E52/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2E58/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2E5E/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2E64/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2E6A/5C969C02" Ref="R?"  Part="1" 
+AR Path="/5CAE2EB0/5C969C02" Ref="R?"  Part="1" 
+F 0 "R?" V 4900 4700 50  0000 L CNN
+F 1 "1.65k" V 5100 4700 50  0000 L CNN
+F 2 "" V 4930 4700 50  0001 C CNN
+F 3 "~" H 5000 4700 50  0001 C CNN
+	1    5000 4700
+	0    1    1    0   
 $EndComp
 $Comp
 L Device:R R7
 U 1 1 5C96A29C
 P 6850 4000
+AR Path="/5C968447/5C96A29C" Ref="R7"  Part="1" 
+AR Path="/5C98A5A9/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5C98B18E/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5C9C2F57/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5C9C32B8/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5C9C32BE/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5C9C3647/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5C9C364D/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5C9C3653/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5C9C3659/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA2733E/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA27344/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA2734A/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA27350/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA27356/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA2735C/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA27362/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA273A8/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA33469/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA3346F/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA33475/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA3347B/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA33481/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA33487/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA3348D/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA334D3/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA334D9/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA334DF/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA334E5/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA334EB/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA334F1/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA334F7/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA334FD/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA33543/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DAA4/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DAAA/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB0/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB6/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DABC/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC2/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC8/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB0E/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB14/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB1A/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB20/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB26/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB2C/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB32/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB38/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB7E/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB84/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB8A/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB90/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB96/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DB9C/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA2/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA8/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DBEE/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DBF4/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DBFA/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DC00/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DC06/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DC0C/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DC12/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DC18/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CA4DC5E/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2DD6/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2DDC/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE2/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE8/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2DEE/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2DF4/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2DFA/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2E40/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2E46/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2E4C/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2E52/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2E58/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2E5E/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2E64/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2E6A/5C96A29C" Ref="R?"  Part="1" 
+AR Path="/5CAE2EB0/5C96A29C" Ref="R?"  Part="1" 
 F 0 "R?" H 6780 3954 50  0000 R CNN
 F 1 "4.99k" H 6780 4045 50  0000 R CNN
 F 2 "" V 6780 4000 50  0001 C CNN
@@ -51,6 +297,88 @@ $Comp
 L Device:C C1
 U 1 1 5C96A628
 P 4750 3600
+AR Path="/5C968447/5C96A628" Ref="C1"  Part="1" 
+AR Path="/5C98A5A9/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5C98B18E/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5C9C2F57/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5C9C32B8/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5C9C32BE/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5C9C3647/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5C9C364D/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5C9C3653/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5C9C3659/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA2733E/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA27344/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA2734A/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA27350/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA27356/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA2735C/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA27362/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA273A8/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA33469/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA3346F/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA33475/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA3347B/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA33481/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA33487/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA3348D/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA334D3/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA334D9/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA334DF/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA334E5/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA334EB/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA334F1/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA334F7/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA334FD/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA33543/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DAA4/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DAAA/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DAB0/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DAB6/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DABC/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DAC2/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DAC8/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB0E/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB14/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB1A/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB20/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB26/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB2C/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB32/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB38/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB7E/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB84/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB8A/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB90/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB96/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DB9C/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DBA2/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DBA8/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DBEE/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DBF4/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DBFA/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DC00/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DC06/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DC0C/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DC12/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DC18/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CA4DC5E/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2DD6/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2DDC/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2DE2/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2DE8/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2DEE/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2DF4/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2DFA/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2E40/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2E46/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2E4C/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2E52/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2E58/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2E5E/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2E64/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2E6A/5C96A628" Ref="C?"  Part="1" 
+AR Path="/5CAE2EB0/5C96A628" Ref="C?"  Part="1" 
 F 0 "C?" H 4865 3646 50  0000 L CNN
 F 1 "0.27uF" H 4865 3555 50  0000 L CNN
 F 2 "" H 4788 3450 50  0001 C CNN
@@ -62,6 +390,88 @@ $Comp
 L Device:C C4
 U 1 1 5C96AF27
 P 7250 4000
+AR Path="/5C968447/5C96AF27" Ref="C4"  Part="1" 
+AR Path="/5C98A5A9/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5C98B18E/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5C9C2F57/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5C9C32B8/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5C9C32BE/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5C9C3647/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5C9C364D/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5C9C3653/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5C9C3659/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA2733E/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA27344/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA2734A/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA27350/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA27356/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA2735C/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA27362/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA273A8/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA33469/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA3346F/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA33475/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA3347B/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA33481/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA33487/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA3348D/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA334D3/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA334D9/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA334DF/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA334E5/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA334EB/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA334F1/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA334F7/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA334FD/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA33543/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DAA4/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DAAA/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DAB0/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DAB6/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DABC/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DAC2/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DAC8/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB0E/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB14/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB1A/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB20/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB26/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB2C/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB32/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB38/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB7E/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB84/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB8A/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB90/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB96/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DB9C/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DBA2/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DBA8/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DBEE/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DBF4/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DBFA/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DC00/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DC06/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DC0C/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DC12/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DC18/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CA4DC5E/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2DD6/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2DDC/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2DE2/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2DE8/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2DEE/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2DF4/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2DFA/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2E40/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2E46/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2E4C/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2E52/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2E58/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2E5E/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2E64/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2E6A/5C96AF27" Ref="C?"  Part="1" 
+AR Path="/5CAE2EB0/5C96AF27" Ref="C?"  Part="1" 
 F 0 "C?" H 7365 4046 50  0000 L CNN
 F 1 "1.3nF" H 7365 3955 50  0000 L CNN
 F 2 "" H 7288 3850 50  0001 C CNN
@@ -73,8 +483,90 @@ $Comp
 L ARTIQAmp:OPA454AIDDAR U1
 U 1 1 5C96D358
 P 5900 3600
-F 0 "U?" H 6200 3750 50  0000 L CNN
-F 1 "OPA454AIDDAR" H 6200 3400 50  0000 L CNN
+AR Path="/5C968447/5C96D358" Ref="U1"  Part="1" 
+AR Path="/5C98A5A9/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5C98B18E/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5C9C2F57/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5C9C32B8/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5C9C32BE/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5C9C3647/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5C9C364D/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5C9C3653/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5C9C3659/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA2733E/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA27344/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA2734A/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA27350/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA27356/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA2735C/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA27362/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA273A8/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA33469/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA3346F/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA33475/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA3347B/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA33481/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA33487/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA3348D/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA334D3/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA334D9/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA334DF/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA334E5/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA334EB/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA334F1/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA334F7/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA334FD/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA33543/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DAA4/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DAAA/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DAB0/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DAB6/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DABC/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DAC2/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DAC8/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB0E/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB14/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB1A/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB20/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB26/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB2C/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB32/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB38/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB7E/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB84/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB8A/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB90/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB96/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DB9C/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DBA2/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DBA8/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DBEE/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DBF4/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DBFA/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DC00/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DC06/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DC0C/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DC12/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DC18/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CA4DC5E/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2DD6/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2DDC/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2DE2/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2DE8/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2DEE/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2DF4/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2DFA/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2E40/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2E46/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2E4C/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2E52/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2E58/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2E5E/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2E64/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2E6A/5C96D358" Ref="U?"  Part="1" 
+AR Path="/5CAE2EB0/5C96D358" Ref="U?"  Part="1" 
+F 0 "U?" H 6200 3450 50  0000 L CNN
+F 1 "OPA454AIDDAR" H 6150 3800 50  0000 L CNN
 F 2 "" H 5900 3600 50  0001 C CNN
 F 3 "" H 5900 3600 50  0001 C CNN
 	1    5900 3600
@@ -84,6 +576,88 @@ $Comp
 L power:VDD #PWR08
 U 1 1 5C96EFD0
 P 5900 2500
+AR Path="/5C968447/5C96EFD0" Ref="#PWR08"  Part="1" 
+AR Path="/5C98A5A9/5C96EFD0" Ref="#PWR0103"  Part="1" 
+AR Path="/5C98B18E/5C96EFD0" Ref="#PWR0110"  Part="1" 
+AR Path="/5C9C2F57/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C32B8/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C32BE/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C3647/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C364D/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C3653/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C3659/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA2733E/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27344/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA2734A/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27350/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27356/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA2735C/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27362/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA273A8/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33469/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA3346F/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33475/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA3347B/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33481/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33487/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA3348D/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334D3/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334D9/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334DF/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334E5/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334EB/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334F1/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334F7/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334FD/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33543/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAA4/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAAA/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAB0/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAB6/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DABC/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAC2/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAC8/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB0E/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB14/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB1A/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB20/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB26/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB2C/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB32/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB38/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB7E/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB84/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB8A/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB90/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB96/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB9C/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBA2/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBA8/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBEE/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBF4/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBFA/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC00/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC06/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC0C/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC12/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC18/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC5E/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DD6/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DDC/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DE2/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DE8/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DEE/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DF4/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DFA/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E40/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E46/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E4C/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E52/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E58/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E5E/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E64/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E6A/5C96EFD0" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2EB0/5C96EFD0" Ref="#PWR?"  Part="1" 
 F 0 "#PWR?" H 5900 2350 50  0001 C CNN
 F 1 "VDD" H 5917 2673 50  0000 C CNN
 F 2 "" H 5900 2500 50  0001 C CNN
@@ -94,40 +668,368 @@ $EndComp
 $Comp
 L power:VSS #PWR09
 U 1 1 5C96F7F1
-P 5900 4150
-F 0 "#PWR?" H 5900 4000 50  0001 C CNN
-F 1 "VSS" H 5918 4323 50  0000 C CNN
-F 2 "" H 5900 4150 50  0001 C CNN
-F 3 "" H 5900 4150 50  0001 C CNN
-	1    5900 4150
+P 5900 4300
+AR Path="/5C968447/5C96F7F1" Ref="#PWR09"  Part="1" 
+AR Path="/5C98A5A9/5C96F7F1" Ref="#PWR0104"  Part="1" 
+AR Path="/5C98B18E/5C96F7F1" Ref="#PWR0111"  Part="1" 
+AR Path="/5C9C2F57/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C32B8/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C32BE/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C3647/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C364D/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C3653/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C3659/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA2733E/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27344/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA2734A/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27350/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27356/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA2735C/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27362/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA273A8/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33469/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA3346F/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33475/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA3347B/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33481/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33487/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA3348D/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334D3/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334D9/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334DF/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334E5/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334EB/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334F1/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334F7/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334FD/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33543/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAA4/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAAA/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAB0/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAB6/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DABC/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAC2/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAC8/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB0E/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB14/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB1A/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB20/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB26/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB2C/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB32/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB38/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB7E/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB84/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB8A/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB90/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB96/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB9C/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBA2/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBA8/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBEE/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBF4/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBFA/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC00/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC06/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC0C/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC12/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC18/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC5E/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DD6/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DDC/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DE2/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DE8/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DEE/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DF4/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DFA/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E40/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E46/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E4C/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E52/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E58/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E5E/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E64/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E6A/5C96F7F1" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2EB0/5C96F7F1" Ref="#PWR?"  Part="1" 
+F 0 "#PWR?" H 5900 4150 50  0001 C CNN
+F 1 "VSS" H 5918 4473 50  0000 C CNN
+F 2 "" H 5900 4300 50  0001 C CNN
+F 3 "" H 5900 4300 50  0001 C CNN
+	1    5900 4300
 	-1   0    0    1   
 $EndComp
 $Comp
 L Device:C C2
 U 1 1 5C96FD85
-P 6050 2900
-F 0 "C?" H 6165 2946 50  0000 L CNN
-F 1 "0.1uF" H 6165 2855 50  0000 L CNN
-F 2 "" H 6088 2750 50  0001 C CNN
-F 3 "~" H 6050 2900 50  0001 C CNN
-	1    6050 2900
-	1    0    0    -1  
+P 6250 2700
+AR Path="/5C968447/5C96FD85" Ref="C2"  Part="1" 
+AR Path="/5C98A5A9/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5C98B18E/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5C9C2F57/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5C9C32B8/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5C9C32BE/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5C9C3647/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5C9C364D/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5C9C3653/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5C9C3659/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA2733E/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA27344/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA2734A/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA27350/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA27356/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA2735C/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA27362/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA273A8/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA33469/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA3346F/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA33475/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA3347B/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA33481/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA33487/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA3348D/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA334D3/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA334D9/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA334DF/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA334E5/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA334EB/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA334F1/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA334F7/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA334FD/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA33543/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DAA4/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DAAA/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DAB0/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DAB6/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DABC/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DAC2/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DAC8/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB0E/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB14/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB1A/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB20/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB26/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB2C/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB32/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB38/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB7E/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB84/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB8A/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB90/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB96/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DB9C/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DBA2/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DBA8/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DBEE/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DBF4/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DBFA/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DC00/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DC06/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DC0C/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DC12/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DC18/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CA4DC5E/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2DD6/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2DDC/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2DE2/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2DE8/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2DEE/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2DF4/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2DFA/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2E40/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2E46/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2E4C/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2E52/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2E58/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2E5E/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2E64/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2E6A/5C96FD85" Ref="C?"  Part="1" 
+AR Path="/5CAE2EB0/5C96FD85" Ref="C?"  Part="1" 
+F 0 "C?" V 5998 2700 50  0000 C CNN
+F 1 "0.1uF" V 6089 2700 50  0000 C CNN
+F 2 "" H 6288 2550 50  0001 C CNN
+F 3 "~" H 6250 2700 50  0001 C CNN
+	1    6250 2700
+	0    1    1    0   
 $EndComp
 $Comp
 L Device:C C3
 U 1 1 5C97026D
 P 6150 4200
-F 0 "C?" H 6265 4246 50  0000 L CNN
-F 1 "0.1uF" H 6265 4155 50  0000 L CNN
+AR Path="/5C968447/5C97026D" Ref="C3"  Part="1" 
+AR Path="/5C98A5A9/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5C98B18E/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5C9C2F57/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5C9C32B8/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5C9C32BE/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5C9C3647/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5C9C364D/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5C9C3653/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5C9C3659/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA2733E/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA27344/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA2734A/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA27350/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA27356/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA2735C/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA27362/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA273A8/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA33469/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA3346F/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA33475/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA3347B/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA33481/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA33487/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA3348D/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA334D3/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA334D9/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA334DF/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA334E5/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA334EB/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA334F1/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA334F7/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA334FD/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA33543/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DAA4/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DAAA/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DAB0/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DAB6/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DABC/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DAC2/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DAC8/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB0E/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB14/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB1A/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB20/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB26/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB2C/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB32/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB38/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB7E/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB84/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB8A/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB90/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB96/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DB9C/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DBA2/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DBA8/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DBEE/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DBF4/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DBFA/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DC00/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DC06/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DC0C/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DC12/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DC18/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CA4DC5E/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2DD6/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2DDC/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2DE2/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2DE8/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2DEE/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2DF4/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2DFA/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2E40/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2E46/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2E4C/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2E52/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2E58/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2E5E/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2E64/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2E6A/5C97026D" Ref="C?"  Part="1" 
+AR Path="/5CAE2EB0/5C97026D" Ref="C?"  Part="1" 
+F 0 "C?" V 5898 4200 50  0000 C CNN
+F 1 "0.1uF" V 5989 4200 50  0000 C CNN
 F 2 "" H 6188 4050 50  0001 C CNN
 F 3 "~" H 6150 4200 50  0001 C CNN
 	1    6150 4200
-	1    0    0    -1  
+	0    1    1    0   
 $EndComp
 $Comp
 L Device:R R6
 U 1 1 5C9706CF
 P 5700 2950
+AR Path="/5C968447/5C9706CF" Ref="R6"  Part="1" 
+AR Path="/5C98A5A9/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5C98B18E/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5C9C2F57/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5C9C32B8/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5C9C32BE/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5C9C3647/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5C9C364D/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5C9C3653/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5C9C3659/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA2733E/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA27344/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA2734A/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA27350/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA27356/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA2735C/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA27362/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA273A8/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA33469/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA3346F/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA33475/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA3347B/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA33481/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA33487/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA3348D/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA334D3/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA334D9/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA334DF/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA334E5/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA334EB/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA334F1/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA334F7/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA334FD/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA33543/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAA4/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAAA/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB0/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB6/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DABC/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC2/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC8/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB0E/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB14/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB1A/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB20/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB26/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB2C/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB32/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB38/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB7E/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB84/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB8A/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB90/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB96/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB9C/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA2/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA8/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DBEE/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DBF4/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DBFA/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC00/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC06/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC0C/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC12/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC18/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC5E/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DD6/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DDC/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE2/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE8/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DEE/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DF4/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DFA/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E40/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E46/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E4C/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E52/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E58/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E5E/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E64/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E6A/5C9706CF" Ref="R?"  Part="1" 
+AR Path="/5CAE2EB0/5C9706CF" Ref="R?"  Part="1" 
 F 0 "R?" H 5900 2900 50  0000 R CNN
 F 1 "1M" H 5900 3000 50  0000 R CNN
 F 2 "" V 5630 2950 50  0001 C CNN
@@ -147,6 +1049,88 @@ $Comp
 L power:GND #PWR07
 U 1 1 5C971DB5
 P 5700 4150
+AR Path="/5C968447/5C971DB5" Ref="#PWR07"  Part="1" 
+AR Path="/5C98A5A9/5C971DB5" Ref="#PWR0105"  Part="1" 
+AR Path="/5C98B18E/5C971DB5" Ref="#PWR0112"  Part="1" 
+AR Path="/5C9C2F57/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C32B8/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C32BE/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C3647/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C364D/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C3653/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5C9C3659/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA2733E/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27344/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA2734A/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27350/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27356/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA2735C/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA27362/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA273A8/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33469/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA3346F/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33475/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA3347B/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33481/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33487/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA3348D/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334D3/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334D9/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334DF/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334E5/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334EB/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334F1/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334F7/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA334FD/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA33543/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAA4/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAAA/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAB0/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAB6/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DABC/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAC2/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DAC8/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB0E/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB14/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB1A/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB20/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB26/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB2C/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB32/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB38/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB7E/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB84/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB8A/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB90/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB96/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DB9C/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBA2/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBA8/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBEE/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBF4/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DBFA/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC00/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC06/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC0C/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC12/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC18/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CA4DC5E/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DD6/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DDC/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DE2/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DE8/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DEE/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DF4/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2DFA/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E40/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E46/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E4C/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E52/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E58/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E5E/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E64/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2E6A/5C971DB5" Ref="#PWR?"  Part="1" 
+AR Path="/5CAE2EB0/5C971DB5" Ref="#PWR?"  Part="1" 
 F 0 "#PWR?" H 5700 3900 50  0001 C CNN
 F 1 "GND" H 5705 3977 50  0000 C CNN
 F 2 "" H 5700 4150 50  0001 C CNN
@@ -157,49 +1141,15 @@ $EndComp
 Wire Wire Line
 	5700 4050 5700 4150
 Wire Wire Line
-	5900 3950 5900 4000
-$Comp
-L power:GND #PWR011
-U 1 1 5C97317C
-P 6150 4400
-F 0 "#PWR?" H 6150 4150 50  0001 C CNN
-F 1 "GND" H 6155 4227 50  0000 C CNN
-F 2 "" H 6150 4400 50  0001 C CNN
-F 3 "" H 6150 4400 50  0001 C CNN
-	1    6150 4400
-	1    0    0    -1  
-$EndComp
+	5900 3950 5900 4200
 Wire Wire Line
-	6150 4350 6150 4400
+	6000 4200 5900 4200
+Connection ~ 5900 4200
 Wire Wire Line
-	6150 4050 6150 4000
-Wire Wire Line
-	6150 4000 5900 4000
-Connection ~ 5900 4000
-Wire Wire Line
-	5900 4000 5900 4150
+	5900 4200 5900 4300
 Wire Wire Line
 	5900 2500 5900 2700
-$Comp
-L power:GND #PWR010
-U 1 1 5C974870
-P 6050 3100
-F 0 "#PWR?" H 6050 2850 50  0001 C CNN
-F 1 "GND" H 6055 2927 50  0000 C CNN
-F 2 "" H 6050 3100 50  0001 C CNN
-F 3 "" H 6050 3100 50  0001 C CNN
-	1    6050 3100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	6050 3100 6050 3050
-Wire Wire Line
-	6050 2750 6050 2700
-Wire Wire Line
-	6050 2700 5900 2700
 Connection ~ 5900 2700
-Wire Wire Line
-	5900 2700 5900 3250
 Wire Wire Line
 	5700 3100 5700 3150
 Wire Wire Line
@@ -229,43 +1179,56 @@ Wire Wire Line
 	7250 4700 6850 4700
 Connection ~ 6850 4700
 Wire Wire Line
-	5200 4700 5200 4800
-Connection ~ 5200 4700
-$Comp
-L power:GND #PWR06
-U 1 1 5C9789F8
-P 5200 5150
-F 0 "#PWR?" H 5200 4900 50  0001 C CNN
-F 1 "GND" H 5205 4977 50  0000 C CNN
-F 2 "" H 5200 5150 50  0001 C CNN
-F 3 "" H 5200 5150 50  0001 C CNN
-	1    5200 5150
-	1    0    0    -1  
-$EndComp
+	5200 4700 5150 4700
 Wire Wire Line
-	5200 5150 5200 5100
-$Comp
-L power:GND #PWR05
-U 1 1 5C9792CC
-P 4750 3800
-F 0 "#PWR?" H 4750 3550 50  0001 C CNN
-F 1 "GND" H 4755 3627 50  0000 C CNN
-F 2 "" H 4750 3800 50  0001 C CNN
-F 3 "" H 4750 3800 50  0001 C CNN
-	1    4750 3800
-	1    0    0    -1  
-$EndComp
+	4100 4700 4750 4700
 Wire Wire Line
-	4750 3750 4750 3800
+	4750 3750 4750 4700
 Text HLabel 4100 3350 0    50   Input ~ 0
 INPUT
-Text HLabel 7350 3600 2    50   Input ~ 0
+Text HLabel 8000 3600 2    50   Input ~ 0
 OUTPUT
 Wire Wire Line
 	4200 3350 4100 3350
 Wire Wire Line
-	7250 3600 7350 3600
+	7250 3600 8000 3600
 Connection ~ 7250 3600
-Text Notes 3150 4350 0    50   ~ 0
+Text Notes 2500 5800 0    50   ~ 0
 ToDo:\n>Tweak the value of the input resistor\n>Tweak the value of the ouptut capacitor\n>Add a connection for the power pad of the chip
+Text HLabel 4100 4700 0    50   Input ~ 0
+INPUT_COM
+Text Notes 6350 2350 0    50   ~ 0
+In the LL schematic, the ground reference of the supply bypass capacitors are both what I call input_com\n
+Text HLabel 8000 4700 2    50   Input ~ 0
+OUTPUT_COM
+Connection ~ 5200 4700
+Connection ~ 4750 4700
+Wire Wire Line
+	4750 4700 4850 4700
+Wire Wire Line
+	8000 4700 7650 4700
+Wire Wire Line
+	7650 4700 7650 4950
+Wire Wire Line
+	7650 4950 6600 4950
+Wire Wire Line
+	4750 4950 4750 4700
+Wire Wire Line
+	5900 2700 5900 3250
+Wire Wire Line
+	6400 2700 6600 2700
+Wire Wire Line
+	6600 2700 6600 4200
+Wire Wire Line
+	6600 4200 6300 4200
+Wire Wire Line
+	6600 4200 6600 4950
+Connection ~ 6600 4200
+Connection ~ 6600 4950
+Wire Wire Line
+	6600 4950 4750 4950
+Wire Wire Line
+	6100 2700 5900 2700
+Text Notes 5700 5300 0    50   ~ 0
+Should the E/D com also go to the local ground?
 $EndSCHEMATC
