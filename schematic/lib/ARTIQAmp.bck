@@ -1,8 +1,3 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP -45V
-D Power flag
-K power-flag
-$ENDCMP
-#
 #End Doc Library

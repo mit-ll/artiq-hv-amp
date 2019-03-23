@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name test)(type Legacy)(uri C:/Users/Jules/Documents/Circuits/ARTIQAmp/test.lib)(options "")(descr ""))
+  (lib (name ARTIQAmp)(type Legacy)(uri ${KIPRJMOD}/lib/ARTIQAmp.lib)(options "")(descr ""))
 )
