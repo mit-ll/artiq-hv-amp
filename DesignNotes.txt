@@ -24,6 +24,7 @@ General thoughts:
 General notes about using KiCAD:
 >Select a component and go to properties; from here you can edit the library reference to change the library that the symbol derives from
 >http://docs.kicad-pcb.org/5.1.0/en/getting_started_in_kicad/getting_started_in_kicad.html
+>It would appear that setting up the libraries I have done, by using path substitutions in (Preferences>Manage symbol libraries...) has succeeded in making the project portable
 
 
 Still ToDo:
