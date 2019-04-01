@@ -29,8 +29,13 @@ General notes about using KiCAD:
 
 Still ToDo:
 >[CRITICAL] Figure out if it's possible to have hierarchical layouts similar to the schematics
+>>>https://forum.kicad.info/t/hierarchical-sheets-and-pcb/6053/5
+>>>The trick seems to be to use the standalone version of the PCB editor, which allows you to append board designs with other PCB files.  Unclear how much time this is really going to save for me, but should look in to it.
 >Figure out the best default connection for the unused pins of the OPA454
->Make sure that relative libraries work on different comptuers
->>https://forum.kicad.info/t/how-to-make-kicad-schematic-libraries-load-with-a-relative-path/2639/3
->>https://learn.sparkfun.com/tutorials/beginners-guide-to-kicad/setting-up-schematic-component-libraries
->>https://hackaday.com/2017/05/18/kicad-best-practises-library-management/
+>[OPTIONAL] Figure out how to make a nice 3D model of the HD68 connector
+>>>https://forum.kicad.info/t/where-to-start-with-3d-models-for-custom-parts/7185
+
+Other links:
+>https://forum.kicad.info/t/how-to-make-kicad-schematic-libraries-load-with-a-relative-path/2639/3
+>https://learn.sparkfun.com/tutorials/beginners-guide-to-kicad/setting-up-schematic-component-libraries
+>https://hackaday.com/2017/05/18/kicad-best-practises-library-management/

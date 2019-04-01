@@ -1,10 +1,9 @@
 EESchema Schematic File Version 4
-LIBS:ARTIQAmp-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 33
+Sheet 1 1
 Title "Amplifier block"
 Date ""
 Rev ""
@@ -17,7 +16,7 @@ $EndDescr
 $Comp
 L Device:R R29
 U 1 1 5C968DBB
-P 4350 3350
+P 4300 3350
 AR Path="/5C968447/5C968DBB" Ref="R29"  Part="1" 
 AR Path="/5C98A5A9/5C968DBB" Ref="R?"  Part="1" 
 AR Path="/5C98B18E/5C968DBB" Ref="R?"  Part="1" 
@@ -100,17 +99,18 @@ AR Path="/5CAE2E5E/5C968DBB" Ref="R113"  Part="1"
 AR Path="/5CAE2E64/5C968DBB" Ref="R117"  Part="1" 
 AR Path="/5CAE2E6A/5C968DBB" Ref="R121"  Part="1" 
 AR Path="/5CAE2EB0/5C968DBB" Ref="R125"  Part="1" 
-F 0 "R1" V 4143 3350 50  0000 C CNN
-F 1 "49R9" V 4234 3350 50  0000 C CNN
-F 2 "" V 4280 3350 50  0001 C CNN
-F 3 "~" H 4350 3350 50  0001 C CNN
-	1    4350 3350
+AR Path="/5C968DBB" Ref="R1"  Part="1" 
+F 0 "R1" V 4093 3350 50  0000 C CNN
+F 1 "49R9" V 4184 3350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4230 3350 50  0001 C CNN
+F 3 "~" H 4300 3350 50  0001 C CNN
+	1    4300 3350
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:R R30
 U 1 1 5C969C02
-P 5000 4700
+P 4900 4700
 AR Path="/5C968447/5C969C02" Ref="R30"  Part="1" 
 AR Path="/5C98A5A9/5C969C02" Ref="R?"  Part="1" 
 AR Path="/5C98B18E/5C969C02" Ref="R?"  Part="1" 
@@ -193,11 +193,12 @@ AR Path="/5CAE2E5E/5C969C02" Ref="R114"  Part="1"
 AR Path="/5CAE2E64/5C969C02" Ref="R118"  Part="1" 
 AR Path="/5CAE2E6A/5C969C02" Ref="R122"  Part="1" 
 AR Path="/5CAE2EB0/5C969C02" Ref="R126"  Part="1" 
-F 0 "R2" V 4900 4700 50  0000 L CNN
-F 1 "1.65k" V 5100 4700 50  0000 L CNN
-F 2 "" V 4930 4700 50  0001 C CNN
-F 3 "~" H 5000 4700 50  0001 C CNN
-	1    5000 4700
+AR Path="/5C969C02" Ref="R2"  Part="1" 
+F 0 "R2" V 4800 4700 50  0000 L CNN
+F 1 "1.65k" V 5000 4700 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 4830 4700 50  0001 C CNN
+F 3 "~" H 4900 4700 50  0001 C CNN
+	1    4900 4700
 	0    1    1    0   
 $EndComp
 $Comp
@@ -286,9 +287,10 @@ AR Path="/5CAE2E5E/5C96A29C" Ref="R116"  Part="1"
 AR Path="/5CAE2E64/5C96A29C" Ref="R120"  Part="1" 
 AR Path="/5CAE2E6A/5C96A29C" Ref="R124"  Part="1" 
 AR Path="/5CAE2EB0/5C96A29C" Ref="R128"  Part="1" 
+AR Path="/5C96A29C" Ref="R4"  Part="1" 
 F 0 "R4" H 6780 3954 50  0000 R CNN
 F 1 "4.99k" H 6780 4045 50  0000 R CNN
-F 2 "" V 6780 4000 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 6780 4000 50  0001 C CNN
 F 3 "~" H 6850 4000 50  0001 C CNN
 	1    6850 4000
 	-1   0    0    1   
@@ -296,7 +298,7 @@ $EndComp
 $Comp
 L Device:C C29
 U 1 1 5C96A628
-P 4750 3600
+P 4650 3600
 AR Path="/5C968447/5C96A628" Ref="C29"  Part="1" 
 AR Path="/5C98A5A9/5C96A628" Ref="C?"  Part="1" 
 AR Path="/5C98B18E/5C96A628" Ref="C?"  Part="1" 
@@ -379,11 +381,12 @@ AR Path="/5CAE2E5E/5C96A628" Ref="C113"  Part="1"
 AR Path="/5CAE2E64/5C96A628" Ref="C117"  Part="1" 
 AR Path="/5CAE2E6A/5C96A628" Ref="C121"  Part="1" 
 AR Path="/5CAE2EB0/5C96A628" Ref="C125"  Part="1" 
-F 0 "C1" H 4865 3646 50  0000 L CNN
-F 1 "0.27uF" H 4865 3555 50  0000 L CNN
-F 2 "" H 4788 3450 50  0001 C CNN
-F 3 "~" H 4750 3600 50  0001 C CNN
-	1    4750 3600
+AR Path="/5C96A628" Ref="C1"  Part="1" 
+F 0 "C1" H 4765 3646 50  0000 L CNN
+F 1 "0.27uF" H 4765 3555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4688 3450 50  0001 C CNN
+F 3 "~" H 4650 3600 50  0001 C CNN
+	1    4650 3600
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -472,9 +475,10 @@ AR Path="/5CAE2E5E/5C96AF27" Ref="C116"  Part="1"
 AR Path="/5CAE2E64/5C96AF27" Ref="C120"  Part="1" 
 AR Path="/5CAE2E6A/5C96AF27" Ref="C124"  Part="1" 
 AR Path="/5CAE2EB0/5C96AF27" Ref="C128"  Part="1" 
+AR Path="/5C96AF27" Ref="C4"  Part="1" 
 F 0 "C4" H 7365 4046 50  0000 L CNN
 F 1 "1.3nF" H 7365 3955 50  0000 L CNN
-F 2 "" H 7288 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7288 3850 50  0001 C CNN
 F 3 "~" H 7250 4000 50  0001 C CNN
 	1    7250 4000
 	1    0    0    -1  
@@ -565,9 +569,10 @@ AR Path="/5CAE2E5E/5C96D358" Ref="U29"  Part="1"
 AR Path="/5CAE2E64/5C96D358" Ref="U30"  Part="1" 
 AR Path="/5CAE2E6A/5C96D358" Ref="U31"  Part="1" 
 AR Path="/5CAE2EB0/5C96D358" Ref="U32"  Part="1" 
+AR Path="/5C96D358" Ref="U1"  Part="1" 
 F 0 "U1" H 6200 3450 50  0000 L CNN
 F 1 "OPA454AIDDAR" H 6150 3800 50  0000 L CNN
-F 2 "" H 5900 3600 50  0001 C CNN
+F 2 "ARTIQAmp:TI_SO-PowerPAD-8_ThermalVias" H 5900 3600 50  0001 C CNN
 F 3 "" H 5900 3600 50  0001 C CNN
 	1    5900 3600
 	1    0    0    -1  
@@ -658,7 +663,8 @@ AR Path="/5CAE2E5E/5C96EFD0" Ref="#PWR093"  Part="1"
 AR Path="/5CAE2E64/5C96EFD0" Ref="#PWR096"  Part="1" 
 AR Path="/5CAE2E6A/5C96EFD0" Ref="#PWR099"  Part="1" 
 AR Path="/5CAE2EB0/5C96EFD0" Ref="#PWR0102"  Part="1" 
-F 0 "#PWR09" H 5900 2350 50  0001 C CNN
+AR Path="/5C96EFD0" Ref="#PWR0102"  Part="1" 
+F 0 "#PWR0102" H 5900 2350 50  0001 C CNN
 F 1 "VDD" H 5917 2673 50  0000 C CNN
 F 2 "" H 5900 2500 50  0001 C CNN
 F 3 "" H 5900 2500 50  0001 C CNN
@@ -668,7 +674,7 @@ $EndComp
 $Comp
 L power:VSS #PWR031
 U 1 1 5C96F7F1
-P 5900 4300
+P 5900 4450
 AR Path="/5C968447/5C96F7F1" Ref="#PWR031"  Part="1" 
 AR Path="/5C98A5A9/5C96F7F1" Ref="#PWR?"  Part="1" 
 AR Path="/5C98B18E/5C96F7F1" Ref="#PWR?"  Part="1" 
@@ -751,11 +757,12 @@ AR Path="/5CAE2E5E/5C96F7F1" Ref="#PWR094"  Part="1"
 AR Path="/5CAE2E64/5C96F7F1" Ref="#PWR097"  Part="1" 
 AR Path="/5CAE2E6A/5C96F7F1" Ref="#PWR0100"  Part="1" 
 AR Path="/5CAE2EB0/5C96F7F1" Ref="#PWR0103"  Part="1" 
-F 0 "#PWR010" H 5900 4150 50  0001 C CNN
-F 1 "VSS" H 5918 4473 50  0000 C CNN
-F 2 "" H 5900 4300 50  0001 C CNN
-F 3 "" H 5900 4300 50  0001 C CNN
-	1    5900 4300
+AR Path="/5C96F7F1" Ref="#PWR0103"  Part="1" 
+F 0 "#PWR0103" H 5900 4300 50  0001 C CNN
+F 1 "VSS" H 5918 4623 50  0000 C CNN
+F 2 "" H 5900 4450 50  0001 C CNN
+F 3 "" H 5900 4450 50  0001 C CNN
+	1    5900 4450
 	-1   0    0    1   
 $EndComp
 $Comp
@@ -844,9 +851,10 @@ AR Path="/5CAE2E5E/5C96FD85" Ref="C115"  Part="1"
 AR Path="/5CAE2E64/5C96FD85" Ref="C119"  Part="1" 
 AR Path="/5CAE2E6A/5C96FD85" Ref="C123"  Part="1" 
 AR Path="/5CAE2EB0/5C96FD85" Ref="C127"  Part="1" 
+AR Path="/5C96FD85" Ref="C3"  Part="1" 
 F 0 "C3" V 5998 2700 50  0000 C CNN
 F 1 "0.1uF" V 6089 2700 50  0000 C CNN
-F 2 "" H 6288 2550 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 6288 2550 50  0001 C CNN
 F 3 "~" H 6250 2700 50  0001 C CNN
 	1    6250 2700
 	0    1    1    0   
@@ -937,9 +945,10 @@ AR Path="/5CAE2E5E/5C97026D" Ref="C114"  Part="1"
 AR Path="/5CAE2E64/5C97026D" Ref="C118"  Part="1" 
 AR Path="/5CAE2E6A/5C97026D" Ref="C122"  Part="1" 
 AR Path="/5CAE2EB0/5C97026D" Ref="C126"  Part="1" 
+AR Path="/5C97026D" Ref="C2"  Part="1" 
 F 0 "C2" V 5898 4200 50  0000 C CNN
 F 1 "0.1uF" V 5989 4200 50  0000 C CNN
-F 2 "" H 6188 4050 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 6188 4050 50  0001 C CNN
 F 3 "~" H 6150 4200 50  0001 C CNN
 	1    6150 4200
 	0    1    1    0   
@@ -1030,21 +1039,22 @@ AR Path="/5CAE2E5E/5C9706CF" Ref="R115"  Part="1"
 AR Path="/5CAE2E64/5C9706CF" Ref="R119"  Part="1" 
 AR Path="/5CAE2E6A/5C9706CF" Ref="R123"  Part="1" 
 AR Path="/5CAE2EB0/5C9706CF" Ref="R127"  Part="1" 
+AR Path="/5C9706CF" Ref="R3"  Part="1" 
 F 0 "R3" H 5900 2900 50  0000 R CNN
 F 1 "1M" H 5900 3000 50  0000 R CNN
-F 2 "" V 5630 2950 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5630 2950 50  0001 C CNN
 F 3 "~" H 5700 2950 50  0001 C CNN
 	1    5700 2950
 	-1   0    0    1   
 $EndComp
 NoConn ~ 6100 3350
 Wire Wire Line
-	5300 3350 4750 3350
+	5300 3350 4650 3350
 Wire Wire Line
-	4750 3350 4750 3450
+	4650 3350 4650 3450
 Wire Wire Line
-	4750 3350 4500 3350
-Connection ~ 4750 3350
+	4650 3350 4450 3350
+Connection ~ 4650 3350
 $Comp
 L power:GND #PWR029
 U 1 1 5C971DB5
@@ -1131,7 +1141,8 @@ AR Path="/5CAE2E5E/5C971DB5" Ref="#PWR092"  Part="1"
 AR Path="/5CAE2E64/5C971DB5" Ref="#PWR095"  Part="1" 
 AR Path="/5CAE2E6A/5C971DB5" Ref="#PWR098"  Part="1" 
 AR Path="/5CAE2EB0/5C971DB5" Ref="#PWR0101"  Part="1" 
-F 0 "#PWR08" H 5700 3900 50  0001 C CNN
+AR Path="/5C971DB5" Ref="#PWR0101"  Part="1" 
+F 0 "#PWR0101" H 5700 3900 50  0001 C CNN
 F 1 "GND" H 5705 3977 50  0000 C CNN
 F 2 "" H 5700 4150 50  0001 C CNN
 F 3 "" H 5700 4150 50  0001 C CNN
@@ -1146,7 +1157,7 @@ Wire Wire Line
 	6000 4200 5900 4200
 Connection ~ 5900 4200
 Wire Wire Line
-	5900 4200 5900 4300
+	5900 4200 5900 4400
 Wire Wire Line
 	5900 2500 5900 2700
 Connection ~ 5900 2700
@@ -1168,43 +1179,43 @@ Connection ~ 6850 3600
 Wire Wire Line
 	6850 4150 6850 4700
 Wire Wire Line
-	6850 4700 5200 4700
+	6850 4700 5150 4700
 Wire Wire Line
-	5200 4700 5200 3850
+	5150 4700 5150 3850
 Wire Wire Line
-	5200 3850 5300 3850
+	5150 3850 5300 3850
 Wire Wire Line
 	7250 4150 7250 4700
 Wire Wire Line
 	7250 4700 6850 4700
 Connection ~ 6850 4700
 Wire Wire Line
-	5200 4700 5150 4700
+	5150 4700 5050 4700
 Wire Wire Line
-	4100 4700 4750 4700
+	4050 4700 4650 4700
 Wire Wire Line
-	4750 3750 4750 4700
-Text HLabel 4100 3350 0    50   Input ~ 0
+	4650 3750 4650 4700
+Text HLabel 4050 3350 0    50   Input ~ 0
 INPUT
 Text HLabel 8000 3600 2    50   Input ~ 0
 OUTPUT
 Wire Wire Line
-	4200 3350 4100 3350
+	4150 3350 4050 3350
 Wire Wire Line
 	7250 3600 8000 3600
 Connection ~ 7250 3600
 Text Notes 2500 5800 0    50   ~ 0
 ToDo:\n>Tweak the value of the input resistor\n>Tweak the value of the ouptut capacitor\n>Add a connection for the power pad of the chip
-Text HLabel 4100 4700 0    50   Input ~ 0
+Text HLabel 4050 4700 0    50   Input ~ 0
 INPUT_COM
 Text Notes 6350 2350 0    50   ~ 0
 In the LL schematic, the ground reference of the supply bypass capacitors are both what I call input_com\n
 Text HLabel 8000 4700 2    50   Input ~ 0
 OUTPUT_COM
-Connection ~ 5200 4700
-Connection ~ 4750 4700
+Connection ~ 5150 4700
+Connection ~ 4650 4700
 Wire Wire Line
-	4750 4700 4850 4700
+	4650 4700 4750 4700
 Wire Wire Line
 	8000 4700 7650 4700
 Wire Wire Line
@@ -1212,7 +1223,7 @@ Wire Wire Line
 Wire Wire Line
 	7650 4950 6600 4950
 Wire Wire Line
-	4750 4950 4750 4700
+	4650 4950 4650 4700
 Wire Wire Line
 	5900 2700 5900 3250
 Wire Wire Line
@@ -1226,9 +1237,18 @@ Wire Wire Line
 Connection ~ 6600 4200
 Connection ~ 6600 4950
 Wire Wire Line
-	6600 4950 4750 4950
+	6600 4950 4650 4950
 Wire Wire Line
 	6100 2700 5900 2700
 Text Notes 5700 5300 0    50   ~ 0
 Should the E/D com also go to the local ground?
+Wire Wire Line
+	5300 3600 5250 3600
+Wire Wire Line
+	5250 3600 5250 4400
+Wire Wire Line
+	5250 4400 5900 4400
+Connection ~ 5900 4400
+Wire Wire Line
+	5900 4400 5900 4450
 $EndSCHEMATC
