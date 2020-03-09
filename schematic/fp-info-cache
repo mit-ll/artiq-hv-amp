@@ -1,4 +1,4 @@
-16928458940706061
+16926875263618061
 ARTIQAmp
 5787082-7_1
 5787082-7
@@ -6,13 +6,6 @@ Connector
 0
 70
 70
-ARTIQAmp
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
 ARTIQAmp
 TI_SO-PowerPAD-8_ThermalVias
 8-pin HTSOP package with 1.27mm pin pitch, compatible with SOIC-8, 3.9x4.9mm² body, exposed pad, thermal vias with large copper area, as proposed in http://www.ti.com/lit/ds/symlink/tps5430.pdf
