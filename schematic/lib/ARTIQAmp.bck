@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP HD68
-D 37-pin male D-SUB connector
+D 68 pin high-density D-SUB connector
 K male D-SUB connector
 F  ~
 $ENDCMP
