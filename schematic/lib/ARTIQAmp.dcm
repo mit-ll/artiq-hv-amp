@@ -6,6 +6,10 @@ K male D-SUB connector
 F  ~
 $ENDCMP
 #
+$CMP LTC6090CS8E#PBF
+F http://cds.linear.com/docs/en/datasheet/6090fe.pdf
+$ENDCMP
+#
 $CMP Screw_Terminal_01x03
 D Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)
 K screw terminal
