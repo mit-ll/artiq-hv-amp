@@ -1,4 +1,4 @@
-18369991708203061
+18371592263872061
 ARTIQAmp
 5787082-7_1
 5787082-7
@@ -14,6 +14,13 @@ Filter
 3
 3
 ARTIQAmp
+SOIC127P599X175-9N
+S8E Package
+Integrated Circuit
+0
+9
+9
+ARTIQAmp
 TI_SO-PowerPAD-8_ThermalVias
 8-pin HTSOP package with 1.27mm pin pitch, compatible with SOIC-8, 3.9x4.9mm² body, exposed pad, thermal vias with large copper area, as proposed in http://www.ti.com/lit/ds/symlink/tps5430.pdf
 HTSOP 1.27
@@ -21,8 +28,8 @@ HTSOP 1.27
 19
 9
 ARTIQAmp
-WE-SL575
-WE-SL575
+WE-SL2
+WE-SL2
 Inductor
 0
 4

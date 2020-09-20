@@ -689,8 +689,6 @@ Wire Wire Line
 	8850 3350 8600 3350
 Wire Wire Line
 	8850 3250 8600 3250
-Text Notes 10250 8900 0    50   ~ 0
-ToDo:\n>Think about better ways to ground the sheild of the cables\n>Ground loops?!
 $Comp
 L ARTIQAmp:HD68 J2
 U 1 1 5C9B14C8

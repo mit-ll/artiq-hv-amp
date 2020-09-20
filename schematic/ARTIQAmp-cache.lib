@@ -4,19 +4,19 @@ EESchema-LIBRARY Version 2.4
 # ARTIQAmp_744229
 #
 DEF ARTIQAmp_744229 L 0 30 Y Y 1 F N
-F0 "L" 650 300 50 H V L CNN
-F1 "ARTIQAmp_744229" 650 200 50 H V L CNN
-F2 "WE-SL575" 650 100 50 H I L CNN
-F3 "http://componentsearchengine.com/Datasheets/1/744229.pdf" 650 0 50 H I L CNN
-F4 "SMD Common Mode Line Filter WE-SL5" 650 -100 50 H I L CNN "Description"
-F5 "Wurth Elektronik" 650 -500 50 H I L CNN "Manufacturer_Name"
-F6 "744229" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+F0 "L" 200 300 50 H V L CNN
+F1 "ARTIQAmp_744229" 200 200 50 H V L CNN
+F2 "WE-SL575" 200 -250 50 H I L CNN
+F3 "http://componentsearchengine.com/Datasheets/1/744229.pdf" 200 -350 50 H I L CNN
+F4 "SMD Common Mode Line Filter WE-SL5" 200 -450 50 H I L CNN "Description"
+F5 "Wurth Elektronik" 200 -550 50 H I L CNN "Manufacturer_Name"
+F6 "744229" 200 -650 50 H I L CNN "Manufacturer_Part_Number"
 DRAW
 P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
-X 3 1 0 0 200 R 50 50 0 0 P
-X 4 2 800 0 200 L 50 50 0 0 P
-X 2 3 800 -100 200 L 50 50 0 0 P
-X 1 4 0 -100 200 R 50 50 0 0 P
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 800 -100 200 L 50 50 0 0 P
+X 4 4 800 0 200 L 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #
@@ -283,9 +283,9 @@ P 2 0 1 6 600 -200 700 -200 N
 P 2 0 1 6 620 -220 680 -220 N
 P 2 0 1 6 640 -240 660 -240 N
 P 2 0 1 6 650 -200 650 -20 N
-X ~ 1 0 0 100 R 50 50 0 0 U
-X ~ 2 1300 0 100 L 50 50 0 0 U
-X ~ 3 650 -300 100 U 50 50 0 0 U
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 1300 0 100 L 50 50 0 0 P
+X ~ 3 650 -300 100 U 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #
