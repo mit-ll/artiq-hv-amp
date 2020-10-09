@@ -1,4 +1,4 @@
-update=10/6/2020 7:36:43 PM
+update=10/6/2020 7:38:33 PM
 version=1
 last_client=kicad
 [general]
@@ -26,7 +26,7 @@ ERC_TestSimilarLabels=1
 version=1
 PageLayoutDescrFile=
 LastNetListRead=ARTIQAmp.net
-CopperLayerCount=8
+CopperLayerCount=6
 BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
@@ -80,25 +80,25 @@ Name=In1.Cu
 Type=1
 Enabled=1
 [pcbnew/Layer.In2.Cu]
-Name=In24.Cu
-Type=0
-Enabled=1
-[pcbnew/Layer.In3.Cu]
 Name=In2.Cu
 Type=1
 Enabled=1
-[pcbnew/Layer.In4.Cu]
+[pcbnew/Layer.In3.Cu]
 Name=In3.Cu
 Type=1
 Enabled=1
-[pcbnew/Layer.In5.Cu]
-Name=In54.Cu
-Type=0
-Enabled=1
-[pcbnew/Layer.In6.Cu]
+[pcbnew/Layer.In4.Cu]
 Name=In4.Cu
 Type=1
 Enabled=1
+[pcbnew/Layer.In5.Cu]
+Name=In5.Cu
+Type=0
+Enabled=0
+[pcbnew/Layer.In6.Cu]
+Name=In6.Cu
+Type=0
+Enabled=0
 [pcbnew/Layer.In7.Cu]
 Name=In7.Cu
 Type=0
