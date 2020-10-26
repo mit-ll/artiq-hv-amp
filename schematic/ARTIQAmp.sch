@@ -2262,4 +2262,456 @@ Wire Wire Line
 Connection ~ 11800 8500
 Wire Wire Line
 	11800 8900 11800 9000
+$Comp
+L Device:R R?
+U 1 1 5F9A57F6
+P 7800 8850
+AR Path="/5C968447/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5C98A5A9/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5C98B18E/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5C9C2F57/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5C9C32B8/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5C9C32BE/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5C9C3647/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5C9C364D/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5C9C3653/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5C9C3659/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA2733E/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA27344/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA2734A/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA27350/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA27356/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA2735C/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA27362/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA273A8/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA33469/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA3346F/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA33475/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA3347B/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA33481/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA33487/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA3348D/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA334D3/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA334D9/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA334DF/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA334E5/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA334EB/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA334F1/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA334F7/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA334FD/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA33543/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DAA4/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DAAA/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB0/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB6/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DABC/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC2/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC8/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB0E/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB14/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB1A/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB20/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB26/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB2C/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB32/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB38/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB7E/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB84/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB8A/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB90/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB96/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DB9C/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA2/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA8/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DBEE/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DBF4/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DBFA/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DC00/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DC06/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DC0C/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DC12/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DC18/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CA4DC5E/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2DD6/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2DDC/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE2/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE8/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2DEE/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2DF4/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2DFA/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2E40/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2E46/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2E4C/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2E52/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2E58/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2E5E/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2E64/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2E6A/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5CAE2EB0/5F9A57F6" Ref="R?"  Part="1" 
+AR Path="/5F9A57F6" Ref="R?"  Part="1" 
+F 0 "R?" V 7700 8800 50  0000 L CNN
+F 1 "0R" V 7900 8750 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 7730 8850 50  0001 C CNN
+F 3 "~" H 7800 8850 50  0001 C CNN
+	1    7800 8850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FA023DF
+P 10450 8850
+AR Path="/5C968447/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5C98A5A9/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5C98B18E/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5C9C2F57/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5C9C32B8/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5C9C32BE/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5C9C3647/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5C9C364D/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5C9C3653/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5C9C3659/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA2733E/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA27344/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA2734A/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA27350/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA27356/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA2735C/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA27362/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA273A8/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA33469/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA3346F/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA33475/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA3347B/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA33481/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA33487/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA3348D/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA334D3/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA334D9/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA334DF/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA334E5/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA334EB/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA334F1/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA334F7/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA334FD/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA33543/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAA4/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAAA/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB0/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB6/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DABC/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC2/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC8/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB0E/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB14/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB1A/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB20/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB26/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB2C/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB32/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB38/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB7E/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB84/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB8A/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB90/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB96/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DB9C/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA2/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA8/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DBEE/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DBF4/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DBFA/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC00/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC06/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC0C/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC12/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC18/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CA4DC5E/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DD6/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DDC/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE2/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE8/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DEE/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DF4/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2DFA/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E40/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E46/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E4C/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E52/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E58/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E5E/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E64/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2E6A/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5CAE2EB0/5FA023DF" Ref="R?"  Part="1" 
+AR Path="/5FA023DF" Ref="R?"  Part="1" 
+F 0 "R?" V 10350 8800 50  0000 L CNN
+F 1 "0R" V 10550 8750 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 10380 8850 50  0001 C CNN
+F 3 "~" H 10450 8850 50  0001 C CNN
+	1    10450 8850
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5FA60732
+P 7800 9100
+F 0 "#PWR?" H 7800 8850 50  0001 C CNN
+F 1 "GND" H 7805 8927 50  0000 C CNN
+F 2 "" H 7800 9100 50  0001 C CNN
+F 3 "" H 7800 9100 50  0001 C CNN
+	1    7800 9100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5FA60AA2
+P 10450 9100
+F 0 "#PWR?" H 10450 8850 50  0001 C CNN
+F 1 "GND" H 10455 8927 50  0000 C CNN
+F 2 "" H 10450 9100 50  0001 C CNN
+F 3 "" H 10450 9100 50  0001 C CNN
+	1    10450 9100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7800 9000 7800 9100
+Wire Wire Line
+	10450 9000 10450 9100
+Wire Wire Line
+	7900 8400 7900 8600
+$Comp
+L Device:R R?
+U 1 1 5FBA78F5
+P 8100 8850
+AR Path="/5C968447/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5C98A5A9/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5C98B18E/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5C9C2F57/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5C9C32B8/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5C9C32BE/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5C9C3647/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5C9C364D/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5C9C3653/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5C9C3659/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA2733E/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA27344/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA2734A/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA27350/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA27356/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA2735C/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA27362/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA273A8/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA33469/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA3346F/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA33475/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA3347B/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA33481/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA33487/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA3348D/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA334D3/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA334D9/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA334DF/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA334E5/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA334EB/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA334F1/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA334F7/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA334FD/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA33543/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DAA4/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DAAA/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB0/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB6/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DABC/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC2/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC8/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB0E/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB14/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB1A/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB20/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB26/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB2C/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB32/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB38/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB7E/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB84/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB8A/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB90/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB96/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DB9C/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA2/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA8/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DBEE/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DBF4/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DBFA/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DC00/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DC06/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DC0C/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DC12/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DC18/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CA4DC5E/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2DD6/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2DDC/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE2/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE8/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2DEE/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2DF4/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2DFA/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2E40/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2E46/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2E4C/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2E52/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2E58/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2E5E/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2E64/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2E6A/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5CAE2EB0/5FBA78F5" Ref="R?"  Part="1" 
+AR Path="/5FBA78F5" Ref="R?"  Part="1" 
+F 0 "R?" V 8000 8800 50  0000 L CNN
+F 1 "0R" V 8200 8750 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 8030 8850 50  0001 C CNN
+F 3 "~" H 8100 8850 50  0001 C CNN
+	1    8100 8850
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5FBD619B
+P 8100 9100
+F 0 "#PWR?" H 8100 8850 50  0001 C CNN
+F 1 "GND" H 8105 8927 50  0000 C CNN
+F 2 "" H 8100 9100 50  0001 C CNN
+F 3 "" H 8100 9100 50  0001 C CNN
+	1    8100 9100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8100 9000 8100 9100
+Wire Wire Line
+	8100 8600 8100 8700
+Wire Wire Line
+	8000 8400 8000 8600
+Wire Wire Line
+	8000 8600 8100 8600
+Wire Wire Line
+	7900 8600 7800 8600
+Wire Wire Line
+	7800 8600 7800 8700
+$Comp
+L Device:R R?
+U 1 1 5FCBF84B
+P 10750 8850
+AR Path="/5C968447/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5C98A5A9/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5C98B18E/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5C9C2F57/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5C9C32B8/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5C9C32BE/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5C9C3647/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5C9C364D/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5C9C3653/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5C9C3659/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA2733E/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA27344/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA2734A/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA27350/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA27356/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA2735C/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA27362/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA273A8/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA33469/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA3346F/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA33475/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA3347B/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA33481/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA33487/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA3348D/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA334D3/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA334D9/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA334DF/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA334E5/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA334EB/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA334F1/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA334F7/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA334FD/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA33543/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DAA4/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DAAA/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB0/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DAB6/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DABC/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC2/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DAC8/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB0E/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB14/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB1A/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB20/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB26/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB2C/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB32/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB38/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB7E/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB84/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB8A/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB90/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB96/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DB9C/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA2/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DBA8/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DBEE/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DBF4/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DBFA/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DC00/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DC06/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DC0C/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DC12/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DC18/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CA4DC5E/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2DD6/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2DDC/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE2/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2DE8/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2DEE/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2DF4/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2DFA/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2E40/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2E46/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2E4C/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2E52/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2E58/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2E5E/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2E64/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2E6A/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5CAE2EB0/5FCBF84B" Ref="R?"  Part="1" 
+AR Path="/5FCBF84B" Ref="R?"  Part="1" 
+F 0 "R?" V 10650 8800 50  0000 L CNN
+F 1 "0R" V 10850 8750 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 10680 8850 50  0001 C CNN
+F 3 "~" H 10750 8850 50  0001 C CNN
+	1    10750 8850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10550 8400 10550 8600
+Wire Wire Line
+	10550 8600 10450 8600
+Wire Wire Line
+	10450 8600 10450 8700
+Wire Wire Line
+	10650 8400 10650 8600
+Wire Wire Line
+	10650 8600 10750 8600
+Wire Wire Line
+	10750 8600 10750 8700
+$Comp
+L power:GND #PWR?
+U 1 1 5FD4F2D1
+P 10750 9100
+F 0 "#PWR?" H 10750 8850 50  0001 C CNN
+F 1 "GND" H 10755 8927 50  0000 C CNN
+F 2 "" H 10750 9100 50  0001 C CNN
+F 3 "" H 10750 9100 50  0001 C CNN
+	1    10750 9100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10750 9000 10750 9100
 $EndSCHEMATC
