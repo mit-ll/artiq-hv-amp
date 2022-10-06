@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# PU6BBH
+#
+DEF PU6BBH D 0 40 N N 1 L N
+F0 "D" -200 100 50 H V L BNN
+F1 "PU6BBH" -200 -150 50 H V L BNN
+F2 "DIOM4336X265N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Taiwan Semiconductor" 0 0 50 H I L BNN "MF"
+F5 "150ns, 2A, 50V, Fast Recovery Rectifier" 0 0 50 H I L BNN "Description"
+F6 "https://pricing.snapeda.com/search/part/PU6BBH/?ref=eda" 0 0 50 H I L BNN "Purchase-URL"
+F7 "None" 0 0 50 H I L BNN "Price"
+F8 "PU6BBH" 0 0 50 H I L BNN "MP"
+F9 "SMB-2 Taiwan Semiconductor" 0 0 50 H I L BNN "Package"
+F10 "In Stock" 0 0 50 H I L BNN "Availability"
+DRAW
+P 2 0 0 10 -50 -50 50 0 N
+P 2 0 0 10 50 0 -50 50 N
+P 2 0 0 10 50 50 50 0 N
+P 2 0 0 10 -50 50 -50 0 N
+P 2 0 0 10 -50 0 -50 -50 N
+P 2 0 0 10 50 0 50 -50 N
+P 2 0 0 10 -100 0 -50 0 N
+P 2 0 0 10 50 0 100 0 N
+X ~ C 200 0 100 L 40 40 0 0 P 
+X ~ A -200 0 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

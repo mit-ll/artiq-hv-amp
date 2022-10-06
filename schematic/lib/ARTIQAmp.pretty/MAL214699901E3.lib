@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MAL214699901E3
+#
+DEF MAL214699901E3 C 0 40 N N 1 L N
+F0 "C" -200 150 50 H V L BNN
+F1 "MAL214699901E3" -200 -200 50 H V L BNN
+F2 "CAPAE1050X1050N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "https://snapeda.com/shop?store=DigiKey&id=285948" 0 0 50 H I L BNN "DIGIKEY-PURCHASE-URL"
+F5 "Radial Vishay BC" 0 0 50 H I L BNN "PACKAGE"
+F6 "MAL214699103E3" 0 0 50 H I L BNN "MP"
+F7 "https://snapeda.com/shop?store=Mouser&id=285948" 0 0 50 H I L BNN "MOUSER-PURCHASE-URL"
+F8 "None" 0 0 50 H I L BNN "PRICE"
+F9 "Good" 0 0 50 H I L BNN "AVAILABILITY"
+F10 "Vishay BC" 0 0 50 H I L BNN "MF"
+F11 "100µF 50V Aluminum Electrolytic Capacitors Radial, Can - SMD 1500 Hrs @ 125°C" 0 0 50 H I L BNN "DESCRIPTION"
+DRAW
+A 133 0 174 1450 2150 0 0 10 N -10 100 -10 -100
+P 2 0 0 10 -40 0 100 0 N
+P 2 0 0 10 -200 0 -80 0 N
+P 2 0 0 10 -80 100 -80 -100 N
+S -146 -60 -111 -55 0 0 0 F
+S -131 -75 -126 -40 0 0 0 F
+X ~ 1 -200 0 0 R 40 40 0 0 P 
+X ~ 2 100 0 0 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
