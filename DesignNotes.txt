@@ -39,3 +39,12 @@ Other links:
 >https://forum.kicad.info/t/how-to-make-kicad-schematic-libraries-load-with-a-relative-path/2639/3
 >https://learn.sparkfun.com/tutorials/beginners-guide-to-kicad/setting-up-schematic-component-libraries
 >https://hackaday.com/2017/05/18/kicad-best-practises-library-management/
+
+---
+
+Notes from dreens:
+-I've added protection diodes to the design- first of all polarity protection diodes on the power supply, and also 70 V steering diodes on the input to the amplifiers. 
+-I wasn't able to protect the output for lack of high enough voltage diodes in a small enough form factor.
+-I've also added u.FL pickoffs before the input to the amplifier to enable network analysis of the transfer function through the amps for shuttling predistortion computations.
+-PCB Unlimited had trouble getting the differential chokes to solder. Something about the feet not being exposed enough? 
+-I guess maybe they're laser heating the pads and couldn't get it to heat enough.
