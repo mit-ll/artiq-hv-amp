@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ElectrodeFilterAdapters")(type "KiCad")(uri "${KIPRJMOD}/lib/ElectrodeFilterAdapters.kicad_sym")(options "")(descr ""))
+  (lib (name "TSW-132-07-G-T")(type "KiCad")(uri "${KIPRJMOD}/ElectrodeFilterAdapters.pretty/TSW-132-23-G-T.kicad_sym")(options "")(descr ""))
+)

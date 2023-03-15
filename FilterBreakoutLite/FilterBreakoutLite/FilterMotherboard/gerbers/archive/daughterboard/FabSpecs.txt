@@ -1,0 +1,15 @@
+Total layers = 4
+Board dimensions = 1.05" x 1.11"
+Board type = FR4
+Board thickness = 0.062"
+Outer copper wt. = 1.0 Oz
+Inner copper wt. = 1.0 Oz
+Min trace/space = 0.010"
+Min hole dia. = 0.015"
+Min annular ring width = 0.007"
+Total drills = 18
+Surface finish = Lead-free HAL with selective hard gold, 30 microinch (see GerberList.txt for selective gold layer)
+Soldermask both sides = yes
+Soldermask type = LPI
+Soldermask color = green
+Silkscreen color = white

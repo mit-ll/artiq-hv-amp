@@ -1,0 +1,15 @@
+H9161CT-ND		U.FL connector
+	OR H11891TR-ND
+
+587-2511-1-ND		Pi filter inductor
+
+
+WM7543-ND		Board edge connector
+
+
+182-825FE-ND		female socket db25 // mouser 636-182-025-213R181
+
+
+A31814-ND		HD68 connector
+
+

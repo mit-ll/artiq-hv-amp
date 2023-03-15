@@ -1,0 +1,38 @@
+### Module positions - created on Sun Feb 27 16:24:08 2022 ###
+### Printed by Pcbnew version (6.0.0)
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                 PosX       PosY       Rot  Side
+C5        0.1uF     C_0603_1608Metric   -91.1500  -134.5100   90.0000  bottom
+C6        0.1uF     C_0603_1608Metric   -88.2000  -133.4700    0.0000  bottom
+C7        0.1uF     C_0603_1608Metric   -89.6000  -131.0600  -90.0000  bottom
+C8        0.1uF     C_0603_1608Metric   -94.8300  -131.0700  -90.0000  bottom
+C13       0.1uF     C_0603_1608Metric   -91.1600  -147.4600   90.0000  bottom
+C14       0.1uF     C_0603_1608Metric   -88.1400  -146.5100    0.0000  bottom
+C15       0.1uF     C_0603_1608Metric   -89.5900  -143.9700  -90.0000  bottom
+C16       0.1uF     C_0603_1608Metric   -94.8200  -143.9600  -90.0000  bottom
+R5        1k        R_0603_1608Metric   -94.0000  -135.3000    0.0000  bottom
+R6        1k        R_0603_1608Metric   -88.2100  -135.3000    0.0000  bottom
+R7        1k        R_0603_1608Metric   -87.4200  -131.0700  -90.0000  bottom
+R8        1k        R_0603_1608Metric   -92.2200  -130.2900  180.0000  bottom
+R13       1k        R_0603_1608Metric   -94.0200  -148.2000    0.0000  bottom
+R14       1k        R_0603_1608Metric   -88.1900  -148.2400    0.0000  bottom
+R15       1k        R_0603_1608Metric   -87.3700  -144.0300  -90.0000  bottom
+R16       1k        R_0603_1608Metric   -92.2700  -143.1800  180.0000  bottom
+C1        0.1uF     C_0603_1608Metric    91.1800  -128.5800  -90.0000  top
+C2        0.1uF     C_0603_1608Metric    88.1900  -129.5400    0.0000  top
+C3        0.1uF     C_0603_1608Metric    89.5700  -132.0100   90.0000  top
+C4        0.1uF     C_0603_1608Metric    94.8100  -132.0300   90.0000  top
+C9        0.1uF     C_0603_1608Metric    91.1700  -141.4300  -90.0000  top
+C10       0.1uF     C_0603_1608Metric    88.2000  -142.3900    0.0000  top
+C11       0.1uF     C_0603_1608Metric    89.5900  -144.8900   90.0000  top
+C12       0.1uF     C_0603_1608Metric    94.8400  -144.8900   90.0000  top
+R1        1k        R_0603_1608Metric    94.0000  -127.8000    0.0000  top
+R2        1k        R_0603_1608Metric    88.2100  -127.8000    0.0000  top
+R3        1k        R_0603_1608Metric    87.4200  -132.0100   90.0000  top
+R4        1k        R_0603_1608Metric    92.2300  -132.7900  180.0000  top
+R9        1k        R_0603_1608Metric    93.9900  -140.6700  180.0000  top
+R10       1k        R_0603_1608Metric    88.2100  -140.6700  180.0000  top
+R11       1k        R_0603_1608Metric    87.4300  -144.8700  -90.0000  top
+R12       1k        R_0603_1608Metric    92.2600  -145.6900    0.0000  top
+## End

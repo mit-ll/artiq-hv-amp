@@ -1,0 +1,17 @@
+File extension		Description
+
+GM1			Board edge
+
+DRL			Drill
+
+GTL			Top Copper
+G2			Interal layer #1
+G3			Internal layer #2
+GBL			Bottom Copper
+
+GTS			Top soldermask
+GBS			Bottom soldermask
+GTO			Top silkscreen
+GBO			Bottom silkscreen
+GTP			Top paste	
+GBP			Bottom paste

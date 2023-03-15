@@ -1,0 +1,1400 @@
+(export 
+  (version D) 
+  (design 
+    (source /home/jules/Documents/ElectrodeFilterAdapters/HDCombinator.sch) 
+    (date "Tue 10 Nov 2020 11:28:38 AM EST") 
+    (tool "Eeschema 5.1.8-db9833491~87~ubuntu20.04.1") 
+    (sheet 
+      (number 1) 
+      (name /) 
+      (tstamps /) 
+      (title_block 
+        (title) 
+        (company) 
+        (rev) 
+        (date) 
+        (source HDCombinator.sch) 
+        (comment 
+          (number 1) 
+          (value "")) 
+        (comment 
+          (number 2) 
+          (value "")) 
+        (comment 
+          (number 3) 
+          (value "")) 
+        (comment 
+          (number 4) 
+          (value ""))))) 
+  (components 
+    (comp 
+      (ref J1) 
+      (value HD68) 
+      (footprint ElectrodeFilterAdapters:5787082-7_1) 
+      (libsource 
+        (lib ElectrodeFilterAdapters) 
+        (part HD68) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5FA97239)) 
+    (comp 
+      (ref J2) 
+      (value HD68) 
+      (footprint ElectrodeFilterAdapters:5787082-7_1) 
+      (libsource 
+        (lib ElectrodeFilterAdapters) 
+        (part HD68) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5FA98A62)) 
+    (comp 
+      (ref J3) 
+      (value HD68) 
+      (footprint ElectrodeFilterAdapters:5787082-7_1) 
+      (libsource 
+        (lib ElectrodeFilterAdapters) 
+        (part HD68) 
+        (description "")) 
+      (sheetpath 
+        (names /) 
+        (tstamps /)) 
+      (tstamp 5FA9B8F9))) 
+  (libparts 
+    (libpart 
+      (lib ElectrodeFilterAdapters) 
+      (part HD68) 
+      (footprints 
+        (fp DSUB*Male*)) 
+      (fields 
+        (field 
+          (name Reference) J) 
+        (field 
+          (name Value) HD68)) 
+      (pins 
+        (pin 
+          (num 1) 
+          (name 1) 
+          (type passive)) 
+        (pin 
+          (num 2) 
+          (name 2) 
+          (type passive)) 
+        (pin 
+          (num 3) 
+          (name 3) 
+          (type passive)) 
+        (pin 
+          (num 4) 
+          (name 4) 
+          (type passive)) 
+        (pin 
+          (num 5) 
+          (name 5) 
+          (type passive)) 
+        (pin 
+          (num 6) 
+          (name 6) 
+          (type passive)) 
+        (pin 
+          (num 7) 
+          (name 7) 
+          (type passive)) 
+        (pin 
+          (num 8) 
+          (name 8) 
+          (type passive)) 
+        (pin 
+          (num 9) 
+          (name 9) 
+          (type passive)) 
+        (pin 
+          (num 10) 
+          (name 10) 
+          (type passive)) 
+        (pin 
+          (num 11) 
+          (name 11) 
+          (type passive)) 
+        (pin 
+          (num 12) 
+          (name 12) 
+          (type passive)) 
+        (pin 
+          (num 13) 
+          (name 13) 
+          (type passive)) 
+        (pin 
+          (num 14) 
+          (name 14) 
+          (type passive)) 
+        (pin 
+          (num 15) 
+          (name 15) 
+          (type passive)) 
+        (pin 
+          (num 16) 
+          (name 16) 
+          (type passive)) 
+        (pin 
+          (num 17) 
+          (name 17) 
+          (type passive)) 
+        (pin 
+          (num 18) 
+          (name 18) 
+          (type passive)) 
+        (pin 
+          (num 19) 
+          (name 19) 
+          (type passive)) 
+        (pin 
+          (num 20) 
+          (name 20) 
+          (type passive)) 
+        (pin 
+          (num 21) 
+          (name 21) 
+          (type passive)) 
+        (pin 
+          (num 22) 
+          (name 22) 
+          (type passive)) 
+        (pin 
+          (num 23) 
+          (name 23) 
+          (type passive)) 
+        (pin 
+          (num 24) 
+          (name 24) 
+          (type passive)) 
+        (pin 
+          (num 25) 
+          (name 25) 
+          (type passive)) 
+        (pin 
+          (num 26) 
+          (name 26) 
+          (type passive)) 
+        (pin 
+          (num 27) 
+          (name 27) 
+          (type passive)) 
+        (pin 
+          (num 28) 
+          (name 28) 
+          (type passive)) 
+        (pin 
+          (num 29) 
+          (name 29) 
+          (type passive)) 
+        (pin 
+          (num 30) 
+          (name 30) 
+          (type passive)) 
+        (pin 
+          (num 31) 
+          (name 31) 
+          (type passive)) 
+        (pin 
+          (num 32) 
+          (name 32) 
+          (type passive)) 
+        (pin 
+          (num 33) 
+          (name 33) 
+          (type passive)) 
+        (pin 
+          (num 34) 
+          (name 34) 
+          (type passive)) 
+        (pin 
+          (num 35) 
+          (name 35) 
+          (type passive)) 
+        (pin 
+          (num 36) 
+          (name 36) 
+          (type passive)) 
+        (pin 
+          (num 37) 
+          (name 37) 
+          (type passive)) 
+        (pin 
+          (num 38) 
+          (name 38) 
+          (type passive)) 
+        (pin 
+          (num 39) 
+          (name 39) 
+          (type passive)) 
+        (pin 
+          (num 40) 
+          (name 40) 
+          (type passive)) 
+        (pin 
+          (num 41) 
+          (name 41) 
+          (type passive)) 
+        (pin 
+          (num 42) 
+          (name 42) 
+          (type passive)) 
+        (pin 
+          (num 43) 
+          (name 43) 
+          (type passive)) 
+        (pin 
+          (num 44) 
+          (name 44) 
+          (type passive)) 
+        (pin 
+          (num 45) 
+          (name 45) 
+          (type passive)) 
+        (pin 
+          (num 46) 
+          (name 46) 
+          (type passive)) 
+        (pin 
+          (num 47) 
+          (name 47) 
+          (type passive)) 
+        (pin 
+          (num 48) 
+          (name 48) 
+          (type passive)) 
+        (pin 
+          (num 49) 
+          (name 49) 
+          (type passive)) 
+        (pin 
+          (num 50) 
+          (name 50) 
+          (type passive)) 
+        (pin 
+          (num 51) 
+          (name 51) 
+          (type passive)) 
+        (pin 
+          (num 52) 
+          (name 52) 
+          (type passive)) 
+        (pin 
+          (num 53) 
+          (name 53) 
+          (type passive)) 
+        (pin 
+          (num 54) 
+          (name 54) 
+          (type passive)) 
+        (pin 
+          (num 55) 
+          (name 55) 
+          (type passive)) 
+        (pin 
+          (num 56) 
+          (name 56) 
+          (type passive)) 
+        (pin 
+          (num 57) 
+          (name 57) 
+          (type passive)) 
+        (pin 
+          (num 58) 
+          (name 58) 
+          (type passive)) 
+        (pin 
+          (num 59) 
+          (name 59) 
+          (type passive)) 
+        (pin 
+          (num 60) 
+          (name 60) 
+          (type passive)) 
+        (pin 
+          (num 61) 
+          (name 61) 
+          (type passive)) 
+        (pin 
+          (num 62) 
+          (name 62) 
+          (type passive)) 
+        (pin 
+          (num 63) 
+          (name 63) 
+          (type passive)) 
+        (pin 
+          (num 64) 
+          (name 64) 
+          (type passive)) 
+        (pin 
+          (num 65) 
+          (name 65) 
+          (type passive)) 
+        (pin 
+          (num 66) 
+          (name 66) 
+          (type passive)) 
+        (pin 
+          (num 67) 
+          (name 67) 
+          (type passive)) 
+        (pin 
+          (num 68) 
+          (name 68) 
+          (type passive)) 
+        (pin 
+          (num 69) 
+          (name 69) 
+          (type passive)) 
+        (pin 
+          (num 70) 
+          (name 70) 
+          (type passive))))) 
+  (libraries 
+    (library 
+      (logical ElectrodeFilterAdapters) 
+      (uri /home/jules/Documents/ElectrodeFilterAdapters/lib/ElectrodeFilterAdapters.lib))) 
+  (nets 
+    (net 
+      (code 1) 
+      (name /Z_P_6) 
+      (node 
+        (ref J1) 
+        (pin 6)) 
+      (node 
+        (ref J2) 
+        (pin 14))) 
+    (net 
+      (code 2) 
+      (name /Z_P_14) 
+      (node 
+        (ref J2) 
+        (pin 3)) 
+      (node 
+        (ref J1) 
+        (pin 14))) 
+    (net 
+      (code 3) 
+      (name /Z_P_13) 
+      (node 
+        (ref J2) 
+        (pin 4)) 
+      (node 
+        (ref J1) 
+        (pin 13))) 
+    (net 
+      (code 4) 
+      (name /Z_P_12) 
+      (node 
+        (ref J2) 
+        (pin 7)) 
+      (node 
+        (ref J1) 
+        (pin 12))) 
+    (net 
+      (code 5) 
+      (name /Z_P_11) 
+      (node 
+        (ref J1) 
+        (pin 11)) 
+      (node 
+        (ref J2) 
+        (pin 8))) 
+    (net 
+      (code 6) 
+      (name /Z_P_10) 
+      (node 
+        (ref J1) 
+        (pin 10)) 
+      (node 
+        (ref J2) 
+        (pin 9))) 
+    (net 
+      (code 7) 
+      (name /Z_P_9) 
+      (node 
+        (ref J1) 
+        (pin 9)) 
+      (node 
+        (ref J2) 
+        (pin 10))) 
+    (net 
+      (code 8) 
+      (name /Z_P_8) 
+      (node 
+        (ref J2) 
+        (pin 11)) 
+      (node 
+        (ref J1) 
+        (pin 8))) 
+    (net 
+      (code 9) 
+      (name /Z_P_7) 
+      (node 
+        (ref J1) 
+        (pin 7)) 
+      (node 
+        (ref J2) 
+        (pin 12))) 
+    (net 
+      (code 10) 
+      (name /Z_P_5) 
+      (node 
+        (ref J2) 
+        (pin 21)) 
+      (node 
+        (ref J1) 
+        (pin 5))) 
+    (net 
+      (code 11) 
+      (name /Z_P_4) 
+      (node 
+        (ref J2) 
+        (pin 23)) 
+      (node 
+        (ref J1) 
+        (pin 4))) 
+    (net 
+      (code 12) 
+      (name /Z_P_3) 
+      (node 
+        (ref J1) 
+        (pin 3)) 
+      (node 
+        (ref J2) 
+        (pin 25))) 
+    (net 
+      (code 13) 
+      (name /Z_P_2) 
+      (node 
+        (ref J1) 
+        (pin 2)) 
+      (node 
+        (ref J2) 
+        (pin 26))) 
+    (net 
+      (code 14) 
+      (name /Z_P_1) 
+      (node 
+        (ref J1) 
+        (pin 1)) 
+      (node 
+        (ref J2) 
+        (pin 30))) 
+    (net 
+      (code 15) 
+      (name /Z_N_14) 
+      (node 
+        (ref J1) 
+        (pin 48)) 
+      (node 
+        (ref J2) 
+        (pin 37))) 
+    (net 
+      (code 16) 
+      (name /Z_N_13) 
+      (node 
+        (ref J2) 
+        (pin 38)) 
+      (node 
+        (ref J1) 
+        (pin 47))) 
+    (net 
+      (code 17) 
+      (name /Z_N_12) 
+      (node 
+        (ref J2) 
+        (pin 41)) 
+      (node 
+        (ref J1) 
+        (pin 46))) 
+    (net 
+      (code 18) 
+      (name /Z_GND) 
+      (node 
+        (ref J2) 
+        (pin 17)) 
+      (node 
+        (ref J1) 
+        (pin 17)) 
+      (node 
+        (ref J1) 
+        (pin 51)) 
+      (node 
+        (ref J3) 
+        (pin 17)) 
+      (node 
+        (ref J2) 
+        (pin 51)) 
+      (node 
+        (ref J3) 
+        (pin 51))) 
+    (net 
+      (code 19) 
+      (name GND) 
+      (node 
+        (ref J1) 
+        (pin 70)) 
+      (node 
+        (ref J2) 
+        (pin 70)) 
+      (node 
+        (ref J2) 
+        (pin 69)) 
+      (node 
+        (ref J1) 
+        (pin 69)) 
+      (node 
+        (ref J3) 
+        (pin 70)) 
+      (node 
+        (ref J3) 
+        (pin 69))) 
+    (net 
+      (code 20) 
+      (name /Z_N_11) 
+      (node 
+        (ref J2) 
+        (pin 42)) 
+      (node 
+        (ref J1) 
+        (pin 45))) 
+    (net 
+      (code 21) 
+      (name "Net-(J2-Pad18)") 
+      (node 
+        (ref J2) 
+        (pin 18))) 
+    (net 
+      (code 22) 
+      (name "Net-(J2-Pad52)") 
+      (node 
+        (ref J2) 
+        (pin 52))) 
+    (net 
+      (code 23) 
+      (name "Net-(J3-Pad18)") 
+      (node 
+        (ref J3) 
+        (pin 18))) 
+    (net 
+      (code 24) 
+      (name "Net-(J3-Pad52)") 
+      (node 
+        (ref J3) 
+        (pin 52))) 
+    (net 
+      (code 25) 
+      (name /Z_P_16) 
+      (node 
+        (ref J3) 
+        (pin 26)) 
+      (node 
+        (ref J1) 
+        (pin 16))) 
+    (net 
+      (code 26) 
+      (name /Z_P_24) 
+      (node 
+        (ref J3) 
+        (pin 9)) 
+      (node 
+        (ref J1) 
+        (pin 26))) 
+    (net 
+      (code 27) 
+      (name /Z_P_23) 
+      (node 
+        (ref J3) 
+        (pin 10)) 
+      (node 
+        (ref J1) 
+        (pin 25))) 
+    (net 
+      (code 28) 
+      (name /Z_P_22) 
+      (node 
+        (ref J1) 
+        (pin 24)) 
+      (node 
+        (ref J3) 
+        (pin 11))) 
+    (net 
+      (code 29) 
+      (name /Z_P_21) 
+      (node 
+        (ref J3) 
+        (pin 12)) 
+      (node 
+        (ref J1) 
+        (pin 23))) 
+    (net 
+      (code 30) 
+      (name /Z_P_20) 
+      (node 
+        (ref J3) 
+        (pin 14)) 
+      (node 
+        (ref J1) 
+        (pin 22))) 
+    (net 
+      (code 31) 
+      (name /Z_P_19) 
+      (node 
+        (ref J1) 
+        (pin 21)) 
+      (node 
+        (ref J3) 
+        (pin 21))) 
+    (net 
+      (code 32) 
+      (name /Z_P_18) 
+      (node 
+        (ref J3) 
+        (pin 23)) 
+      (node 
+        (ref J1) 
+        (pin 20))) 
+    (net 
+      (code 33) 
+      (name /Z_P_17) 
+      (node 
+        (ref J1) 
+        (pin 19)) 
+      (node 
+        (ref J3) 
+        (pin 25))) 
+    (net 
+      (code 34) 
+      (name /Z_P_25) 
+      (node 
+        (ref J3) 
+        (pin 8)) 
+      (node 
+        (ref J1) 
+        (pin 27))) 
+    (net 
+      (code 35) 
+      (name /Z_P_15) 
+      (node 
+        (ref J1) 
+        (pin 15)) 
+      (node 
+        (ref J3) 
+        (pin 30))) 
+    (net 
+      (code 36) 
+      (name /Z_N_32) 
+      (node 
+        (ref J1) 
+        (pin 68)) 
+      (node 
+        (ref J3) 
+        (pin 35))) 
+    (net 
+      (code 37) 
+      (name /Z_N_31) 
+      (node 
+        (ref J1) 
+        (pin 67)) 
+      (node 
+        (ref J3) 
+        (pin 36))) 
+    (net 
+      (code 38) 
+      (name /Z_N_30) 
+      (node 
+        (ref J1) 
+        (pin 66)) 
+      (node 
+        (ref J3) 
+        (pin 37))) 
+    (net 
+      (code 39) 
+      (name /Z_N_29) 
+      (node 
+        (ref J3) 
+        (pin 38)) 
+      (node 
+        (ref J1) 
+        (pin 65))) 
+    (net 
+      (code 40) 
+      (name /Z_N_28) 
+      (node 
+        (ref J3) 
+        (pin 39)) 
+      (node 
+        (ref J1) 
+        (pin 64))) 
+    (net 
+      (code 41) 
+      (name /Z_N_27) 
+      (node 
+        (ref J3) 
+        (pin 40)) 
+      (node 
+        (ref J1) 
+        (pin 63))) 
+    (net 
+      (code 42) 
+      (name /Z_N_26) 
+      (node 
+        (ref J3) 
+        (pin 41)) 
+      (node 
+        (ref J1) 
+        (pin 62))) 
+    (net 
+      (code 43) 
+      (name /Z_N_2) 
+      (node 
+        (ref J2) 
+        (pin 60)) 
+      (node 
+        (ref J1) 
+        (pin 36))) 
+    (net 
+      (code 44) 
+      (name /Z_N_10) 
+      (node 
+        (ref J2) 
+        (pin 43)) 
+      (node 
+        (ref J1) 
+        (pin 44))) 
+    (net 
+      (code 45) 
+      (name /Z_N_9) 
+      (node 
+        (ref J2) 
+        (pin 44)) 
+      (node 
+        (ref J1) 
+        (pin 43))) 
+    (net 
+      (code 46) 
+      (name /Z_N_8) 
+      (node 
+        (ref J2) 
+        (pin 45)) 
+      (node 
+        (ref J1) 
+        (pin 42))) 
+    (net 
+      (code 47) 
+      (name /Z_N_7) 
+      (node 
+        (ref J2) 
+        (pin 46)) 
+      (node 
+        (ref J1) 
+        (pin 41))) 
+    (net 
+      (code 48) 
+      (name /Z_N_6) 
+      (node 
+        (ref J2) 
+        (pin 48)) 
+      (node 
+        (ref J1) 
+        (pin 40))) 
+    (net 
+      (code 49) 
+      (name /Z_N_5) 
+      (node 
+        (ref J2) 
+        (pin 55)) 
+      (node 
+        (ref J1) 
+        (pin 39))) 
+    (net 
+      (code 50) 
+      (name /Z_N_4) 
+      (node 
+        (ref J2) 
+        (pin 57)) 
+      (node 
+        (ref J1) 
+        (pin 38))) 
+    (net 
+      (code 51) 
+      (name /Z_N_3) 
+      (node 
+        (ref J1) 
+        (pin 37)) 
+      (node 
+        (ref J2) 
+        (pin 59))) 
+    (net 
+      (code 52) 
+      (name /Z_N_1) 
+      (node 
+        (ref J2) 
+        (pin 64)) 
+      (node 
+        (ref J1) 
+        (pin 35))) 
+    (net 
+      (code 53) 
+      (name /Z_P_32) 
+      (node 
+        (ref J1) 
+        (pin 34)) 
+      (node 
+        (ref J3) 
+        (pin 1))) 
+    (net 
+      (code 54) 
+      (name /Z_P_31) 
+      (node 
+        (ref J3) 
+        (pin 2)) 
+      (node 
+        (ref J1) 
+        (pin 33))) 
+    (net 
+      (code 55) 
+      (name /Z_P_30) 
+      (node 
+        (ref J1) 
+        (pin 32)) 
+      (node 
+        (ref J3) 
+        (pin 3))) 
+    (net 
+      (code 56) 
+      (name /Z_P_29) 
+      (node 
+        (ref J1) 
+        (pin 31)) 
+      (node 
+        (ref J3) 
+        (pin 4))) 
+    (net 
+      (code 57) 
+      (name /Z_P_28) 
+      (node 
+        (ref J3) 
+        (pin 5)) 
+      (node 
+        (ref J1) 
+        (pin 30))) 
+    (net 
+      (code 58) 
+      (name /Z_P_27) 
+      (node 
+        (ref J3) 
+        (pin 6)) 
+      (node 
+        (ref J1) 
+        (pin 29))) 
+    (net 
+      (code 59) 
+      (name /Z_P_26) 
+      (node 
+        (ref J1) 
+        (pin 28)) 
+      (node 
+        (ref J3) 
+        (pin 7))) 
+    (net 
+      (code 60) 
+      (name /Z_N_25) 
+      (node 
+        (ref J3) 
+        (pin 42)) 
+      (node 
+        (ref J1) 
+        (pin 61))) 
+    (net 
+      (code 61) 
+      (name "Net-(J1-Pad18)") 
+      (node 
+        (ref J1) 
+        (pin 18))) 
+    (net 
+      (code 62) 
+      (name "Net-(J1-Pad52)") 
+      (node 
+        (ref J1) 
+        (pin 52))) 
+    (net 
+      (code 63) 
+      (name "Net-(J2-Pad62)") 
+      (node 
+        (ref J2) 
+        (pin 62))) 
+    (net 
+      (code 64) 
+      (name "Net-(J2-Pad32)") 
+      (node 
+        (ref J2) 
+        (pin 32))) 
+    (net 
+      (code 65) 
+      (name "Net-(J2-Pad33)") 
+      (node 
+        (ref J2) 
+        (pin 33))) 
+    (net 
+      (code 66) 
+      (name "Net-(J2-Pad34)") 
+      (node 
+        (ref J2) 
+        (pin 34))) 
+    (net 
+      (code 67) 
+      (name "Net-(J2-Pad68)") 
+      (node 
+        (ref J2) 
+        (pin 68))) 
+    (net 
+      (code 68) 
+      (name "Net-(J2-Pad67)") 
+      (node 
+        (ref J2) 
+        (pin 67))) 
+    (net 
+      (code 69) 
+      (name "Net-(J2-Pad66)") 
+      (node 
+        (ref J2) 
+        (pin 66))) 
+    (net 
+      (code 70) 
+      (name "Net-(J2-Pad65)") 
+      (node 
+        (ref J2) 
+        (pin 65))) 
+    (net 
+      (code 71) 
+      (name "Net-(J2-Pad63)") 
+      (node 
+        (ref J2) 
+        (pin 63))) 
+    (net 
+      (code 72) 
+      (name "Net-(J2-Pad31)") 
+      (node 
+        (ref J2) 
+        (pin 31))) 
+    (net 
+      (code 73) 
+      (name "Net-(J2-Pad61)") 
+      (node 
+        (ref J2) 
+        (pin 61))) 
+    (net 
+      (code 74) 
+      (name "Net-(J2-Pad58)") 
+      (node 
+        (ref J2) 
+        (pin 58))) 
+    (net 
+      (code 75) 
+      (name "Net-(J2-Pad56)") 
+      (node 
+        (ref J2) 
+        (pin 56))) 
+    (net 
+      (code 76) 
+      (name "Net-(J2-Pad54)") 
+      (node 
+        (ref J2) 
+        (pin 54))) 
+    (net 
+      (code 77) 
+      (name "Net-(J2-Pad53)") 
+      (node 
+        (ref J2) 
+        (pin 53))) 
+    (net 
+      (code 78) 
+      (name "Net-(J2-Pad50)") 
+      (node 
+        (ref J2) 
+        (pin 50))) 
+    (net 
+      (code 79) 
+      (name "Net-(J2-Pad49)") 
+      (node 
+        (ref J2) 
+        (pin 49))) 
+    (net 
+      (code 80) 
+      (name "Net-(J2-Pad47)") 
+      (node 
+        (ref J2) 
+        (pin 47))) 
+    (net 
+      (code 81) 
+      (name "Net-(J2-Pad15)") 
+      (node 
+        (ref J2) 
+        (pin 15))) 
+    (net 
+      (code 82) 
+      (name /Z_N_17) 
+      (node 
+        (ref J1) 
+        (pin 53)) 
+      (node 
+        (ref J3) 
+        (pin 59))) 
+    (net 
+      (code 83) 
+      (name /Z_N_18) 
+      (node 
+        (ref J1) 
+        (pin 54)) 
+      (node 
+        (ref J3) 
+        (pin 57))) 
+    (net 
+      (code 84) 
+      (name /Z_N_19) 
+      (node 
+        (ref J1) 
+        (pin 55)) 
+      (node 
+        (ref J3) 
+        (pin 55))) 
+    (net 
+      (code 85) 
+      (name "Net-(J2-Pad1)") 
+      (node 
+        (ref J2) 
+        (pin 1))) 
+    (net 
+      (code 86) 
+      (name "Net-(J2-Pad2)") 
+      (node 
+        (ref J2) 
+        (pin 2))) 
+    (net 
+      (code 87) 
+      (name "Net-(J2-Pad5)") 
+      (node 
+        (ref J2) 
+        (pin 5))) 
+    (net 
+      (code 88) 
+      (name "Net-(J2-Pad6)") 
+      (node 
+        (ref J2) 
+        (pin 6))) 
+    (net 
+      (code 89) 
+      (name "Net-(J2-Pad13)") 
+      (node 
+        (ref J2) 
+        (pin 13))) 
+    (net 
+      (code 90) 
+      (name "Net-(J2-Pad40)") 
+      (node 
+        (ref J2) 
+        (pin 40))) 
+    (net 
+      (code 91) 
+      (name "Net-(J2-Pad16)") 
+      (node 
+        (ref J2) 
+        (pin 16))) 
+    (net 
+      (code 92) 
+      (name "Net-(J2-Pad19)") 
+      (node 
+        (ref J2) 
+        (pin 19))) 
+    (net 
+      (code 93) 
+      (name "Net-(J2-Pad20)") 
+      (node 
+        (ref J2) 
+        (pin 20))) 
+    (net 
+      (code 94) 
+      (name "Net-(J2-Pad22)") 
+      (node 
+        (ref J2) 
+        (pin 22))) 
+    (net 
+      (code 95) 
+      (name "Net-(J2-Pad24)") 
+      (node 
+        (ref J2) 
+        (pin 24))) 
+    (net 
+      (code 96) 
+      (name "Net-(J2-Pad27)") 
+      (node 
+        (ref J2) 
+        (pin 27))) 
+    (net 
+      (code 97) 
+      (name "Net-(J2-Pad28)") 
+      (node 
+        (ref J2) 
+        (pin 28))) 
+    (net 
+      (code 98) 
+      (name "Net-(J2-Pad29)") 
+      (node 
+        (ref J2) 
+        (pin 29))) 
+    (net 
+      (code 99) 
+      (name "Net-(J3-Pad54)") 
+      (node 
+        (ref J3) 
+        (pin 54))) 
+    (net 
+      (code 100) 
+      (name "Net-(J3-Pad67)") 
+      (node 
+        (ref J3) 
+        (pin 67))) 
+    (net 
+      (code 101) 
+      (name "Net-(J3-Pad66)") 
+      (node 
+        (ref J3) 
+        (pin 66))) 
+    (net 
+      (code 102) 
+      (name "Net-(J3-Pad65)") 
+      (node 
+        (ref J3) 
+        (pin 65))) 
+    (net 
+      (code 103) 
+      (name "Net-(J3-Pad63)") 
+      (node 
+        (ref J3) 
+        (pin 63))) 
+    (net 
+      (code 104) 
+      (name "Net-(J3-Pad62)") 
+      (node 
+        (ref J3) 
+        (pin 62))) 
+    (net 
+      (code 105) 
+      (name "Net-(J3-Pad61)") 
+      (node 
+        (ref J3) 
+        (pin 61))) 
+    (net 
+      (code 106) 
+      (name "Net-(J3-Pad58)") 
+      (node 
+        (ref J3) 
+        (pin 58))) 
+    (net 
+      (code 107) 
+      (name "Net-(J3-Pad56)") 
+      (node 
+        (ref J3) 
+        (pin 56))) 
+    (net 
+      (code 108) 
+      (name "Net-(J3-Pad68)") 
+      (node 
+        (ref J3) 
+        (pin 68))) 
+    (net 
+      (code 109) 
+      (name "Net-(J3-Pad53)") 
+      (node 
+        (ref J3) 
+        (pin 53))) 
+    (net 
+      (code 110) 
+      (name "Net-(J3-Pad50)") 
+      (node 
+        (ref J3) 
+        (pin 50))) 
+    (net 
+      (code 111) 
+      (name "Net-(J3-Pad49)") 
+      (node 
+        (ref J3) 
+        (pin 49))) 
+    (net 
+      (code 112) 
+      (name "Net-(J3-Pad47)") 
+      (node 
+        (ref J3) 
+        (pin 47))) 
+    (net 
+      (code 113) 
+      (name "Net-(J3-Pad22)") 
+      (node 
+        (ref J3) 
+        (pin 22))) 
+    (net 
+      (code 114) 
+      (name "Net-(J2-Pad39)") 
+      (node 
+        (ref J2) 
+        (pin 39))) 
+    (net 
+      (code 115) 
+      (name "Net-(J2-Pad36)") 
+      (node 
+        (ref J2) 
+        (pin 36))) 
+    (net 
+      (code 116) 
+      (name "Net-(J2-Pad35)") 
+      (node 
+        (ref J2) 
+        (pin 35))) 
+    (net 
+      (code 117) 
+      (name "Net-(J3-Pad13)") 
+      (node 
+        (ref J3) 
+        (pin 13))) 
+    (net 
+      (code 118) 
+      (name "Net-(J3-Pad15)") 
+      (node 
+        (ref J3) 
+        (pin 15))) 
+    (net 
+      (code 119) 
+      (name "Net-(J3-Pad16)") 
+      (node 
+        (ref J3) 
+        (pin 16))) 
+    (net 
+      (code 120) 
+      (name "Net-(J3-Pad19)") 
+      (node 
+        (ref J3) 
+        (pin 19))) 
+    (net 
+      (code 121) 
+      (name "Net-(J3-Pad20)") 
+      (node 
+        (ref J3) 
+        (pin 20))) 
+    (net 
+      (code 122) 
+      (name /Z_N_16) 
+      (node 
+        (ref J3) 
+        (pin 60)) 
+      (node 
+        (ref J1) 
+        (pin 50))) 
+    (net 
+      (code 123) 
+      (name "Net-(J3-Pad24)") 
+      (node 
+        (ref J3) 
+        (pin 24))) 
+    (net 
+      (code 124) 
+      (name "Net-(J3-Pad27)") 
+      (node 
+        (ref J3) 
+        (pin 27))) 
+    (net 
+      (code 125) 
+      (name "Net-(J3-Pad28)") 
+      (node 
+        (ref J3) 
+        (pin 28))) 
+    (net 
+      (code 126) 
+      (name "Net-(J3-Pad29)") 
+      (node 
+        (ref J3) 
+        (pin 29))) 
+    (net 
+      (code 127) 
+      (name "Net-(J3-Pad31)") 
+      (node 
+        (ref J3) 
+        (pin 31))) 
+    (net 
+      (code 128) 
+      (name "Net-(J3-Pad32)") 
+      (node 
+        (ref J3) 
+        (pin 32))) 
+    (net 
+      (code 129) 
+      (name "Net-(J3-Pad33)") 
+      (node 
+        (ref J3) 
+        (pin 33))) 
+    (net 
+      (code 130) 
+      (name "Net-(J3-Pad34)") 
+      (node 
+        (ref J3) 
+        (pin 34))) 
+    (net 
+      (code 131) 
+      (name /Z_N_24) 
+      (node 
+        (ref J3) 
+        (pin 43)) 
+      (node 
+        (ref J1) 
+        (pin 60))) 
+    (net 
+      (code 132) 
+      (name /Z_N_23) 
+      (node 
+        (ref J3) 
+        (pin 44)) 
+      (node 
+        (ref J1) 
+        (pin 59))) 
+    (net 
+      (code 133) 
+      (name /Z_N_22) 
+      (node 
+        (ref J3) 
+        (pin 45)) 
+      (node 
+        (ref J1) 
+        (pin 58))) 
+    (net 
+      (code 134) 
+      (name /Z_N_21) 
+      (node 
+        (ref J3) 
+        (pin 46)) 
+      (node 
+        (ref J1) 
+        (pin 57))) 
+    (net 
+      (code 135) 
+      (name /Z_N_20) 
+      (node 
+        (ref J3) 
+        (pin 48)) 
+      (node 
+        (ref J1) 
+        (pin 56))) 
+    (net 
+      (code 136) 
+      (name /Z_N_15) 
+      (node 
+        (ref J3) 
+        (pin 64)) 
+      (node 
+        (ref J1) 
+        (pin 49)))))

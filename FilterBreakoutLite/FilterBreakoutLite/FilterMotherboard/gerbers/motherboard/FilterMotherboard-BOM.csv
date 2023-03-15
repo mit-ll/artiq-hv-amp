@@ -1,0 +1,12 @@
+Reference,Value,Package,Type,Datasheet,Description,Digikey Part Number,Manufacturer,MPN,Qty,Through QTY,SMT QTY
+C1-C128,0.1uF,0603,SMT,https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL10B104KC8NNNC_Spec.pdf,CAP CER 0.1UF 100V X7R 0603,587-6323-2-ND,Samsung,CL10B104KC8NNNC,128,0,128
+E1-E32,,,SMT,https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf,RF Connectors / Coaxial Connectors U.FL RECEPTACLE SMT GLD M CONT REEL,,Hirose,U.FL-R-SMT(10),32,0,32
+J1-J8,,,Through,https://www.molex.com/pdm_docs/sd/458440001_sd.pdf,CONN EDGE DUAL FEMALE 16POS GOLD,WM7543-ND,Molex,458440004,8,8,0
+"J9, J17",,2x32,Through,https://suddendocs.samtec.com/prints/tsw-xxx-xx-x-x-xx-xxx-footprint.pdf,CONN HEADER VERT 64POS 2.54MM,SAM1028-32-ND,Samtec,TSW-132-07-G-D,2,2,0
+J10,,DB25,Through,https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=748612&DocType=Customer+Drawing&DocLang=English,CONN D-SUB RCPT 25POS VERT SLDR,A144955-ND,TE Connectivity AMP Connectors,748612-1,1,1,0
+"J12, J15, J18",,2x2,Through,http://suddendocs.samtec.com/catalog_english/tsw_th.pdf,CONN HEADER VERT 4POS 2.54MM,SAM1028-02-ND,Samtec,TSW-102-07-G-D,3,3,0
+"J11, J13",,3x32,Through,http://suddendocs.samtec.com/catalog_english/tsw_th.pdf,CONN HEADER VERT 96POS 2.54MM,SAM12369-ND,Samtec,TSW-132-07-G-T,2,2,0
+"J14, J16",,HD68,Through,https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5787082&DocType=Customer+Drawing&DocLang=English,CONN D-TYPE RCPT 68POS R/A SLDR,A31814-ND,TE Connectivity AMP Connectors,5787082-7,2,2,0
+R1-R3,50,0603,SMT,https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf,RES 51 OHM 5% 1/10W 0603,RMCF0603JT51R0CT-ND,Stackpole Electronics Inc,RMCF0603JT51R0,3,0,3
+R4-R131,1k,0603,SMT,https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf,RES 1K OHM 5% 1/10W 0603,RMCF0603JJ1K00CT-ND,Stackpole Electronics Inc,RMCF0603JJ1K00,128,0,128
+,,,,,,,,,,18,291

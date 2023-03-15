@@ -1,0 +1,15 @@
+Total layers = 4
+Board dimensions = 4.21" x 2.72"
+Board type = FR4
+Board thickness = 0.062"
+Outer copper wt. = 1.0 Oz
+Inner copper wt. = 1.0 Oz
+Min trace/space = 0.005"
+Min hole dia. = 0.010" (can be microvias)
+Min annular ring width = 0.005"
+Total drills = 332
+Surface finish = Not critical; use default
+Soldermask both sides = yes
+Soldermask type = LPI
+Soldermask color = green
+Silkscreen color = white
