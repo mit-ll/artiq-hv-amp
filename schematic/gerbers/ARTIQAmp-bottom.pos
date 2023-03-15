@@ -1,4 +1,4 @@
-### Module positions - created on Fri Jun 24 14:50:44 2022 ###
+### Module positions - created on Tue Mar 14 22:58:04 2023 ###
 ### Printed by Pcbnew version (6.0.2)
 ## Unit = inches, Angle = deg.
 ## Side : bottom
@@ -67,14 +67,14 @@ C99       0.1u             C_0603_1608Metric     -7.2480    -4.6575  180.0000  b
 C100      0.1u             C_0603_1608Metric     -2.6575    -4.7717  -90.0000  bottom
 C101      1n               C_0603_1608Metric     -2.2953    -4.6772   90.0000  bottom
 C102      0.1u             C_0603_1608Metric     -2.5630    -4.6575  180.0000  bottom
-D17       NUP1301,215      TRANS_MMBT2907A       -2.4417    -4.4764   90.0000  bottom
-D18       NUP1301,215      TRANS_MMBT2907A       -3.1102    -4.4740   90.0000  bottom
-D19       NUP1301,215      TRANS_MMBT2907A       -3.7795    -4.4783   90.0000  bottom
-D20       NUP1301,215      TRANS_MMBT2907A       -4.4488    -4.4783   90.0000  bottom
-D21       NUP1301,215      TRANS_MMBT2907A       -5.1181    -4.4783   90.0000  bottom
-D22       NUP1301,215      TRANS_MMBT2907A       -5.7874    -4.4783   90.0000  bottom
-D23       NUP1301,215      TRANS_MMBT2907A       -6.4567    -4.4783   90.0000  bottom
-D24       NUP1301,215      TRANS_MMBT2907A       -7.1300    -4.4783   90.0000  bottom
+D17       BAV99            TRANS_MMBT2907A       -2.4417    -4.4764   90.0000  bottom
+D18       BAV99            TRANS_MMBT2907A       -3.1102    -4.4740   90.0000  bottom
+D19       BAV99            TRANS_MMBT2907A       -3.7795    -4.4783   90.0000  bottom
+D20       BAV99            TRANS_MMBT2907A       -4.4488    -4.4783   90.0000  bottom
+D21       BAV99            TRANS_MMBT2907A       -5.1181    -4.4783   90.0000  bottom
+D22       BAV99            TRANS_MMBT2907A       -5.7874    -4.4783   90.0000  bottom
+D23       BAV99            TRANS_MMBT2907A       -6.4567    -4.4783   90.0000  bottom
+D24       BAV99            TRANS_MMBT2907A       -7.1300    -4.4783   90.0000  bottom
 D25       NUP1301,215      TRANS_MMBT2907A       -2.4390    -2.4992  -90.0000  bottom
 D26       NUP1301,215      TRANS_MMBT2907A       -3.1102    -2.5000  -90.0000  bottom
 D27       NUP1301,215      TRANS_MMBT2907A       -3.7776    -2.5008  -90.0000  bottom
@@ -115,22 +115,22 @@ IC29      LTC6090CS8E#PBF  SOIC127P599X175-9N    -5.8228    -4.7992    0.0000  b
 IC30      LTC6090CS8E#PBF  SOIC127P599X175-9N    -6.4921    -4.7992    0.0000  bottom
 IC31      LTC6090CS8E#PBF  SOIC127P599X175-9N    -7.1614    -4.7992    0.0000  bottom
 IC32      LTC6090CS8E#PBF  SOIC127P599X175-9N    -2.4764    -4.7992    0.0000  bottom
-L17       18.4k            WE-SL2                -3.2795    -1.8228   90.0000  bottom
-L18       18.4k            WE-SL2                -3.9488    -1.8228   90.0000  bottom
-L19       18.4k            WE-SL2                -4.6181    -1.8228   90.0000  bottom
-L20       18.4k            WE-SL2                -5.2874    -1.8228   90.0000  bottom
-L21       18.4k            WE-SL2                -5.9567    -1.8228   90.0000  bottom
-L22       18.4k            WE-SL2                -6.6260    -1.8228   90.0000  bottom
-L23       18.4k            WE-SL2                -7.2953    -1.8228   90.0000  bottom
-L24       18.4k            WE-SL2                -2.6102    -1.8228   90.0000  bottom
-L25       18.4k            WE-SL2                -3.2953    -5.1772  -90.0000  bottom
-L26       18.4k            WE-SL2                -3.9646    -5.1772  -90.0000  bottom
-L27       18.4k            WE-SL2                -4.6339    -5.1772  -90.0000  bottom
-L28       18.4k            WE-SL2                -5.3031    -5.1772  -90.0000  bottom
-L29       18.4k            WE-SL2                -5.9724    -5.1772  -90.0000  bottom
-L30       18.4k            WE-SL2                -6.6417    -5.1772  -90.0000  bottom
-L31       18.4k            WE-SL2                -7.3110    -5.1772  -90.0000  bottom
-L32       18.4k            WE-SL2                -2.6260    -5.1772  -90.0000  bottom
+L17       18.4k            WE-SL2-WIDE           -3.2795    -1.8228   90.0000  bottom
+L18       18.4k            WE-SL2-WIDE           -3.9488    -1.8228   90.0000  bottom
+L19       18.4k            WE-SL2-WIDE           -4.6181    -1.8228   90.0000  bottom
+L20       18.4k            WE-SL2-WIDE           -5.2874    -1.8228   90.0000  bottom
+L21       18.4k            WE-SL2-WIDE           -5.9567    -1.8228   90.0000  bottom
+L22       18.4k            WE-SL2-WIDE           -6.6260    -1.8228   90.0000  bottom
+L23       18.4k            WE-SL2-WIDE           -7.2953    -1.8228   90.0000  bottom
+L24       18.4k            WE-SL2-WIDE           -2.6102    -1.8228   90.0000  bottom
+L25       18.4k            WE-SL2-WIDE           -3.2953    -5.1772  -90.0000  bottom
+L26       18.4k            WE-SL2-WIDE           -3.9646    -5.1772  -90.0000  bottom
+L27       18.4k            WE-SL2-WIDE           -4.6339    -5.1772  -90.0000  bottom
+L28       18.4k            WE-SL2-WIDE           -5.3031    -5.1772  -90.0000  bottom
+L29       18.4k            WE-SL2-WIDE           -5.9724    -5.1772  -90.0000  bottom
+L30       18.4k            WE-SL2-WIDE           -6.6417    -5.1772  -90.0000  bottom
+L31       18.4k            WE-SL2-WIDE           -7.3110    -5.1772  -90.0000  bottom
+L32       18.4k            WE-SL2-WIDE           -2.6260    -5.1772  -90.0000  bottom
 R98       100              R_0603_1608Metric     -2.8701    -2.1969  180.0000  bottom
 R99       4.99k            R_0603_1608Metric     -2.9646    -2.2323  -90.0000  bottom
 R100      30               R_0603_1608Metric     -3.3898    -2.1811  -90.0000  bottom
